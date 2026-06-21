@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Album of the Day</title>
+    <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
+    <description>A daily prompt for intentional listening.</description>
+    <item>
+      <title>Album of the Day — Moondog · Moondog</title>
+      <pubDate>Sun, 21 Jun 2026 21:11:37 +0000</pubDate>
+      <guid>album-prompt-2026-06-21</guid>
+      <description>Moondog — Moondog (1969)</description>
+    </item>
+  </channel>
+</rss>
