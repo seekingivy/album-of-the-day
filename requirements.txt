@@ -1,0 +1,4 @@
+# Phase 1: no dependencies — picker.py and build_catalog.py use stdlib only.
+# Phase 2 will add: plexapi, rapidfuzz, python-dotenv (for plex_sync.py, run locally — not here)
+# Phase 3 will add: musicbrainzngs (for enrich.py, run locally — not here)
+# Phase 4 will add: PyYAML (for config.yaml)
