@@ -1,6 +1,1090 @@
-artist,album,year
-Broadcast,Tender Buttons,2005
-Moondog,Moondog,1969
-Talk Talk,Spirit of Eden,1988
-Sigur Ros,Agaetis Byrjun,1999
-Bjork,Vespertine,2001
+Artist,Title,Release Date,Runtime,Genre,Songs
+Frank Sinatra,In the Wee Small Hours,1955,0:49:52,Jazz,16
+The Louvin Brothers,Tragic Songs of Life,1956,0:33:55,Country,12
+Elvis Presley,Elvis Presley,1956,0:28:03,Rock,12
+Frank Sinatra,Songs for Swingin' Lovers!,1956,0:43:59,Jazz,15
+Louis Prima,The Wildest!,1956,0:32:00,Jazz,10
+Duke Ellington,Ellington at Newport,1956,0:43:53,Jazz,5
+The Crickets,The Chirping Crickets,1957,0:26:02,Rock,12
+Little Richard,Here's Little Richard,1957,0:28:30,Rock,12
+Fats Domino,This Is Fats,1957,0:24:31,Rock,12
+Sabu,Palo congo,1957,0:40:51,Jazz,8
+Miles Davis,Birth of the Cool,1957,0:35:29,Jazz,11
+Thelonious Monk,Brilliant Corners,1957,0:42:47,Jazz,5
+Ramblin' Jack Elliott,Jack Takes the Floor,1958,0:43:49,Folk,11
+Tito Puente,Dance Mania,1958,0:37:50,Jazz,12
+Machito,Kenya,1958,0:35:15,Jazz,12
+Sarah Vaughan and Her Trio,At Mister Kelly's,1958,1:12:40,Jazz,20
+Count Basie and His Orchestra + Neal Hefti Arrangements,The Atomic Mr. Basie,1958,0:39:30,Jazz,11
+Billie Holiday & Ray Ellis and His Orchestra,Lady in Satin,1958,0:44:36,Jazz,12
+Ravi Shankar,The Sounds of India,1958,0:53:40,Indian,5
+Ray Charles,The Genius of Ray Charles,1959,0:37:47,Jazz,12
+Ella Fitzgerald,Ella Fitzgerald Sings the George and Ira Gershwin Song Book,1959,3:12:11,Jazz,59
+Marty Robbins,Gunfighter Ballads and Trail Songs,1959,0:35:25,Country,12
+Dave Brubeck,Time Out,1959,0:38:30,Jazz,7
+Miles Davis,Kind of Blue,1959,0:45:44,Jazz,5
+The Everly Brothers,A Date With The Everly Brothers,1960,0:27:55,Country,12
+Elvis Presley,Elvis Is Back!,1960,0:31:54,Rock,12
+Joan Baez,Joan Baez,1960,0:46:02,Folk,13
+Muddy Waters,Muddy Waters at Newport 1960,1960,0:32:38,Blues,9
+Miriam Makeba,Miriam Makeba,1961,0:34:42,African,14
+Bill Evans Trio,Sunday at the Village Vanguard,1961,0:42:03,Jazz,6
+Ray Charles,Modern Sounds in Country and Western Music,1962,0:39:33,Country,12
+Stan Getz & Charlie Byrd,Jazz Samba,1962,0:33:12,Jazz,7
+Booker T. & The M.G.'s,Green Onions,1962,0:34:55,RnB,12
+Ray Price,Night Life,1963,0:37:36,Country,12
+Bob Dylan,The Freewheelin' Bob Dylan,1963,0:44:14,Folk,13
+Jimmy Smith,Back at the Chicken Shack,1963,0:37:50,Jazz,4
+James Brown,'Live' at the Apollo,1963,0:31:31,RnB,8
+The Beatles,With The Beatles,1963,0:33:07,Rock,14
+Various Artists,A Christmas Gift for You From Philles Records,1963,0:34:12,Pop,13
+Mingus,The Black Saint and the Sinner Lady,1963,0:39:25,Jazz,4
+Dusty Springfield,A Girl Called Dusty,1964,0:32:54,Pop,12
+Solomon Burke,Rock 'n Soul,1964,0:34:06,Soul,12
+Jerry Lee Lewis,"Live at the Star-Club, Hamburg",1964,0:37:02,Rock,13
+The Rolling Stones,The Rolling Stones,1964,0:33:24,Rock,12
+Jacques Brel,Olympia 64,1964,0:25:52,Folk,8
+The Beatles,A Hard Day's Night,1964,0:30:09,Rock,12
+Stan Getz & Joao Gilberto featuring Antonio Carlos Jobim,Getz / Gilberto,1964,0:33:46,Jazz,8
+Buck Owens and His Buckaroos,I've Got a Tiger by the Tail,1965,0:31:59,Country,12
+Bob Dylan,Highway 61 Revisited,1965,0:51:26,Folk,9
+Bob Dylan,Bringing It All Back Home,1965,0:47:21,Folk,11
+The Who,My Generation,1965,0:36:13,Rock,12
+Bert Jansch,Bert Jansch,1965,0:39:19,Folk,15
+The Beach Boys,The Beach Boys Today!,1965,0:28:54,Pop,12
+The Sonics,Here Are The Sonics!!!,1965,0:28:48,Rock,12
+B.B. King,Live at the Regal,1965,0:34:46,Blues,10
+The Byrds,Mr. Tambourine Man,1965,0:31:35,Rock,12
+Otis Redding,Otis Blue: Otis Redding Sings Soul,1965,0:32:22,Soul,11
+John Coltrane,A Love Supreme,1965,0:32:47,Jazz,4
+The Beatles,Rubber Soul,1965,0:34:59,Rock,14
+Bob Dylan,Blonde on Blonde,1966,1:12:57,Folk,14
+The Mama's and The Papa's,If You Can Believe Your Eyes and Ears,1966,0:33:45,Rock,12
+The Rolling Stones,Aftermath,1966,0:52:23,Rock,14
+John Mayall with Eric Clapton,Blues Breakers,1966,0:37:39,Rock,12
+Paul Revere & The Raiders,Midnight Ride,1966,0:27:17,Rock,11
+Donovan,Sunshine Superman,1966,0:41:23,Folk,10
+Love,Da Capo,1966,0:35:54,Rock,7
+The 13th Floor Elevators,The Psychedelic Sounds of The 13th Floor Elevators,1966,0:34:31,Rock,11
+Yardbirds,Yardbirds [Roger the Engineer],1966,0:31:47,Rock,12
+The Beach Boys,Pet Sounds,1966,0:35:01,Pop,13
+The Byrds,Fifth Dimension,1966,0:28:34,Rock,11
+The Mothers of Invention,Freak Out!,1966,1:00:05,Rock,14
+Simon & Garfunkel,"Parsley, Sage, Rosemary and Thyme",1966,0:27:55,Folk,12
+Monks,Black Monk Time,1966,0:30:00,Rock,12
+The Kinks,Face to Face,1966,0:38:31,Rock,14
+Nina Simone,Wild Is the Wind,1966,0:38:34,Jazz,11
+The Beatles,Revolver,1966,0:35:01,Rock,14
+Loretta Lynn,Don't Come Home a Drinkin' (With Lovin' on Your Mind),1967,0:30:14,Country,12
+Merle Haggard and The Strangers,I'm a Lonesome Fugitive,1967,0:31:01,Country,12
+The Young Rascals,Groovin',1967,0:33:42,Rock,11
+The Monkees,Headquarters,1967,0:29:59,Pop,14
+The Beau Brummels,Triangle,1967,0:28:48,Folk,11
+Country Joe & The Fish,Electric Music for the Mind and Body,1967,0:43:16,Rock,11
+Francis Albert Sinatra & Antonio Carlos Jobim,Francis Albert Sinatra & Antonio Carlos Jobim,1967,0:27:47,Jazz,10
+The Electric Prunes,The Electric Prunes,1967,0:29:15,Rock,12
+The Who,The Who Sell Out,1967,0:38:46,Rock,13
+Astrud Gilberto,Beach Samba,1967,0:27:11,Jazz,12
+Captain Beefheart and His Magic Band,Safe as Milk,1967,0:33:17,Rock,12
+Pink Floyd,The Piper at the Gates of Dawn,1967,0:41:54,Rock,11
+Fred Neil,Fred Neil,1967,0:37:56,Folk,10
+The Kinks,Something Else by The Kinks,1967,0:36:02,Rock,13
+Jefferson Airplane,Surrealistic Pillow,1967,0:33:40,Rock,11
+Tim Buckley,Goodbye and Hello,1967,0:42:41,Folk,10
+Buffalo Springfield,Buffalo Springfield Again,1967,0:33:01,Rock,10
+Nico,Chelsea Girl,1967,0:45:06,Folk,10
+Love,Forever Changes,1967,0:42:05,Pop,11
+Moby Grape,Moby Grape,1967,0:30:47,Rock,13
+Leonard Cohen,Songs of Leonard Cohen,1967,0:41:03,Folk,10
+The Byrds,Younger Than Yesterday,1967,0:29:11,Rock,11
+The Doors,The Doors,1967,0:43:25,Rock,11
+The Jimi Hendrix Experience,Axis: Bold as Love,1967,0:39:40,Rock,13
+The Jimi Hendrix Experience,Are You Experienced,1967,0:38:34,Rock,11
+Cream,Disraeli Gears,1967,0:33:02,Rock,11
+Aretha Franklin,I Never Loved a Man the Way I Love You,1967,0:32:06,Soul,11
+The Beatles,Sgt. Pepper's Lonely Hearts Club Band,1967,0:39:36,Rock,13
+The Velvet Underground & Nico,The Velvet Underground & Nico,1967,0:47:51,Rock,11
+Van Morrison,Astral Weeks,1968,0:43:05,Folk,8
+"Dr. John, the Night Tripper",Gris-Gris,1968,0:33:19,RnB,7
+Iron Butterfly,In-A-Gadda-Da-Vida,1968,0:36:00,Rock,6
+The Byrds,Sweetheart of the Rodeo,1968,0:32:35,Rock,11
+The Incredible String Band,The Hangman's Beautiful Daughter,1968,0:48:51,Folk,10
+Blue Cheer,Vincebus Eruptum,1968,0:32:07,Rock,6
+The Rolling Stones,Beggars Banquet,1968,0:39:43,Rock,10
+Small Faces,Ogdens' Nut Gone Flake,1968,0:38:18,Rock,12
+Jeff Beck,Truth,1968,0:40:41,Rock,10
+Caetano Veloso,Caetano Veloso,1968,0:35:03,Rock,12
+Johnny Cash,At Folsom Prison,1968,0:45:05,Country,16
+Simon & Garfunkel,Bookends,1968,0:29:13,Folk,13
+Big Brother & The Holding Company,Cheap Thrills,1968,0:37:09,Rock,7
+Laura Nyro,Eli and the Thirteenth Confession,1968,0:46:15,Soul,13
+Os Mutantes,Os Mutantes,1968,0:36:01,Rock,11
+Scott Walker,Scott 2,1968,0:43:42,Pop,12
+The Kinks,The Kinks Are the Village Green Preservation Society,1968,0:39:48,Rock,15
+The Byrds,The Notorious Byrd Brothers,1968,0:28:28,Rock,11
+Traffic,Traffic,1968,0:40:44,Rock,10
+The Mothers of Invention,We're Only in It for the Money,1968,0:40:18,Rock,18
+The Velvet Underground,White Light / White Heat,1968,0:38:55,Rock,6
+The Zombies,Odessey and Oracle,1968,0:35:18,Pop,12
+"Shivkumar Sharma, Brij Bhushan Kabra & Hariprasad Chaurasia",Call of the Valley,1968,0:39:46,Indian,5
+The Jimi Hendrix Experience,Electric Ladyland,1968,1:14:49,Rock,16
+Aretha Franklin,Lady Soul,1968,0:28:41,Soul,10
+The Beatles,The Beatles [White Album],1968,1:33:33,Rock,30
+The United States of America,The United States of America,1968,0:37:07,Rock,10
+The Band,Music From Big Pink,1968,0:42:03,Rock,11
+The Pretty Things,S.F. Sorrow,1968,0:40:59,Rock,13
+Dusty Springfield,Dusty in Memphis,1969,0:32:39,Pop,11
+Elvis Presley,From Elvis in Memphis,1969,0:36:42,Rock,12
+The Pentangle,Basket of Light,1969,0:40:07,Jazz,9
+Quicksilver Messenger Service,Happy Trails,1969,0:48:41,Rock,5
+Fairport Convention,Liege & Lief,1969,0:40:33,Rock,8
+Bee Gees,Odessa,1969,1:03:49,Pop,17
+Captain Beefheart & His Magic Band,Trout Mask Replica,1969,1:18:19,Rock,28
+"Blood, Sweat & Tears","Blood, Sweat & Tears",1969,0:45:36,Rock,10
+The Flying Burrito Bros,The Gilded Palace of Sin,1969,0:37:24,Country,11
+The Youngbloods,Elephant Mountain,1969,0:40:06,Rock,13
+The Temptations,Cloud Nine,1969,0:34:35,Soul,10
+Scott Engel,Scott 4,1969,0:32:28,Pop,10
+Sly & The Family Stone,Stand!,1969,0:41:27,Funk,8
+The Stooges,The Stooges,1969,0:34:33,Punk,8
+Grateful Dead,Live / Dead,1969,1:15:07,Rock,7
+The Kinks,Arthur or the Decline and Fall of the British Empire,1969,0:49:17,Rock,12
+Johnny Cash,At San Quentin,1969,0:34:04,Country,10
+"Crosby, Stills & Nash","Crosby, Stills & Nash",1969,0:40:30,Folk,10
+Nick Drake,Five Leaves Left,1969,0:41:43,Folk,10
+Tim Buckley,Happy Sad,1969,0:44:43,Folk,6
+Isaac Hayes,Hot Buttered Soul,1969,0:45:24,Soul,4
+Frank Zappa,Hot Rats,1969,0:43:11,Jazz,6
+MC5,Kick Out the Jams,1969,0:39:52,Punk,8
+Rolling Stones,Let It Bleed,1969,0:42:13,Rock,9
+Alexander Spence,Oar,1969,0:44:38,Folk,12
+The Velvet Underground,The Velvet Underground,1969,0:43:35,Rock,10
+Fairport Convention,Unhalfbricking,1969,0:38:51,Rock,8
+The Who,Tommy,1969,1:16:09,Rock,24
+The Band,The Band,1969,0:43:22,Rock,12
+Chicago Transit Authority,Chicago Transit Authority,1969,1:16:32,Jazz,12
+Neil Young with Crazy Horse,Everybody Knows This Is Nowhere,1969,0:40:02,Rock,7
+Miles Davis,In a Silent Way,1969,0:38:30,Jazz,2
+Leonard Cohen,Songs From a Room,1969,0:35:32,Folk,10
+Led Zeppelin,Led Zeppelin II,1969,0:40:44,Rock,9
+The Beatles,Abbey Road,1969,0:47:03,Rock,17
+Creedence Clearwater Revival,Bayou Country,1969,0:33:43,Rock,7
+Creedence Clearwater Revival,Green River,1969,0:28:47,Rock,9
+King Crimson,In the Court of the Crimson King,1969,0:41:59,Rock,5
+Led Zeppelin,Led Zeppelin,1969,0:44:46,Rock,9
+John Lennon / Plastic Ono Band,John Lennon / Plastic Ono Band,1970,0:39:16,Rock,11
+Syd Barrett,The Madcap Laughs,1970,0:38:23,Rock,13
+Rod Stewart,Gasoline Alley,1970,0:42:28,Rock,9
+Van Morrison,Moondance,1970,0:39:08,Rock,10
+Carpenters,Close to You,1970,0:38:37,Pop,12
+Spirit,Twelve Dreams of Dr. Sardonicus,1970,0:38:50,Rock,12
+Derek and The Dominos,Layla and Other Assorted Love Songs,1970,1:17:00,Rock,14
+The Who,Live at Leeds,1970,0:36:24,Rock,6
+James Taylor,Sweet Baby James,1970,0:31:14,Folk,11
+Soft Machine,Third,1970,1:15:43,Jazz,4
+Stephen Stills,Stephen Stills,1970,0:38:59,Folk,10
+Santana,Abraxas,1970,0:36:59,Rock,9
+Grateful Dead,American Beauty,1970,0:42:23,Rock,10
+Ananda Shankar,Ananda Shankar,1970,0:40:35,Indian,8
+The Stooges,Fun House,1970,0:36:24,Punk,7
+Paul McCartney,McCartney,1970,0:33:24,Rock,13
+Cat Stevens,Tea for the Tillerman,1970,0:36:15,Folk,11
+George Harrison,All Things Must Pass,1970,1:43:33,Rock,25
+Simon and Garfunkel,Bridge Over Troubled Water,1970,0:36:46,Folk,11
+Deep Purple,Deep Purple in Rock,1970,0:43:29,Rock,7
+"Crosby, Stills, Nash & Young",Deja Vu,1970,0:35:34,Rock,10
+Traffic,John Barleycorn Must Die,1970,0:35:06,Rock,6
+The Doors,Morrison Hotel,1970,0:37:05,Rock,11
+Neil Young,After the Gold Rush,1970,0:33:41,Rock,11
+Miles Davis,Bitches Brew,1970,1:33:54,Jazz,6
+Black Sabbath,Black Sabbath,1970,0:38:12,Metal,7
+Creedence Clearwater Revival,Cosmo's Factory,1970,0:42:28,Rock,11
+Led Zeppelin,Led Zeppelin III,1970,0:43:08,Rock,10
+Black Sabbath,Paranoid,1970,0:41:51,Metal,8
+John Prine,John Prine,1971,0:44:07,Country,13
+Rod Stewart,Every Picture Tells a Story,1971,0:40:31,Rock,8
+The Flamin' Groovies,Teenage Head,1971,0:30:45,Rock,9
+Sly & The Family Stone,There's a Riot Goin' On,1971,0:47:31,Funk,12
+Bee Gees,Trafalgar,1971,0:46:41,Pop,12
+Don McLean,American Pie,1971,0:35:36,Folk,10
+Faces,A Nod Is as Good as a Wink... to a Blind Horse,1971,0:35:56,Rock,9
+Dolly Parton,Coat of Many Colors,1971,0:26:56,Country,10
+David Crosby,If I Could Only Remember My Name,1971,0:37:03,Folk,9
+Fela Ransome-Kuti and The Africa '70 With Ginger Baker,Live!,1971,0:45:19,Afrobeat,4
+Isaac Hayes,Shaft,1971,1:09:29,Soul,15
+The Allman Brothers Band,At Fillmore East,1971,1:16:26,Rock,7
+The Beach Boys,Surf's Up,1971,0:32:56,Pop,10
+Carole King,Tapestry,1971,0:44:09,Rock,12
+"Emerson, Lake & Palmer",Tarkus,1971,0:38:34,Rock,7
+Gene Clark,White Light,1971,0:35:07,Country,9
+Yes,Fragile,1971,0:41:16,Rock,9
+Jethro Tull,Aqualung,1971,0:43:53,Rock,11
+Nilsson,Nilsson Schmilsson,1971,0:34:48,Rock,10
+Janis Joplin,Pearl,1971,0:33:46,Rock,10
+The Rolling Stones,Sticky Fingers,1971,0:46:22,Rock,10
+The Who,Who's Next,1971,0:43:04,Rock,9
+T. Rex,Electric Warrior,1971,0:39:02,Rock,11
+Yes,The Yes Album,1971,0:41:38,Rock,6
+Elton John,Madman Across the Water,1971,0:45:17,Rock,9
+John Lennon,Imagine,1971,0:39:29,Rock,10
+Joni Mitchell,Blue,1971,0:36:15,Folk,10
+Nick Drake,Bryter Layter,1971,0:39:31,Folk,10
+Serge Gainsbourg,Histoire de Melody Nelson,1971,0:27:07,Pop,7
+David Bowie,Hunky Dory,1971,0:41:50,Rock,11
+Funkadelic,Maggot Brain,1971,0:36:56,Funk,7
+Leonard Cohen,Songs of Love and Hate,1971,0:44:21,Folk,8
+Can,Tago Mago,1971,1:13:27,Rock,7
+Marvin Gaye,What's Going On,1971,0:35:32,Soul,9
+The Doors,L.A. Woman,1971,0:48:25,Rock,10
+Led Zeppelin,Led Zeppelin [IV],1971,0:42:37,Rock,8
+The Nitty Gritty Dirt Band,Will the Circle Be Unbroken,1972,1:49:02,Country,48
+Slade,Slayed?,1972,0:34:30,Rock,10
+Big Star,#1 Record,1972,0:37:03,Pop,12
+Curtis Mayfield,Superfly,1972,0:36:01,Soul,9
+The Rolling Stones,Exile on Main St.,1972,1:05:27,Rock,18
+Roxy Music,Roxy Music,1972,0:42:11,Rock,9
+Milton Nascimento & Lo Borges,Clube da Esquina,1972,1:04:22,Pop,21
+Stephen Stills / Manassas,Manassas,1972,1:11:57,Rock,21
+Lou Reed,Transformer,1972,0:36:40,Rock,11
+The Temptations,All Directions,1972,0:33:33,Soul,8
+David Ackles,American Gothic,1972,0:43:13,Folk,11
+Eagles,Eagles,1972,0:36:43,Rock,10
+Al Green,Let's Stay Together,1972,0:33:43,Soul,9
+Tim Buckley,Greetings From L.A.,1972,0:39:38,Funk,7
+Hugh Masekela,Home Is Where the Music Is,1972,1:16:33,Jazz,10
+Paul Simon,Paul Simon,1972,0:34:03,Folk,11
+"Emerson, Lake & Palmer",Pictures at an Exhibition,1972,0:38:00,Rock,12
+Nick Drake,Pink Moon,1972,0:28:22,Folk,11
+Randy Newman,Sail Away,1972,0:30:07,Pop,12
+Todd Rundgren,Something / Anything?,1972,1:30:33,Rock,13
+Stevie Wonder,Talking Book,1972,0:43:29,Soul,10
+T. Rex,The Slider,1972,0:43:05,Rock,13
+WAR,The World Is a Ghetto,1972,0:43:49,Soul,6
+Black Sabbath,Black Sabbath Vol. 4,1972,0:42:18,Metal,10
+Neil Young,Harvest,1972,0:37:10,Rock,10
+Deep Purple,Made in Japan,1972,1:16:44,Rock,7
+Alice Cooper,School's Out,1972,0:36:56,Rock,9
+Steely Dan,Can't Buy a Thrill,1972,0:40:57,Rock,10
+Yes,Close to the Edge,1972,0:38:42,Rock,3
+Deep Purple,Machine Head,1972,0:37:25,Rock,7
+David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,1972,0:38:29,Rock,11
+The Sensational Alex Harvey Band,Next...,1973,0:35:54,Rock,7
+Mott the Hoople,Mott,1973,0:43:00,Rock,9
+Roxy Music,For Your Pleasure,1973,0:40:53,Rock,8
+Waylon Jennings,Honky Tonk Heroes,1973,0:26:56,Country,10
+ZZ Top,Tres Hombres,1973,0:33:26,Rock,10
+The Isley Brothers,3 + 3,1973,0:38:58,Funk,9
+Bob Marley & The Wailers,Catch a Fire,1973,0:35:51,Reggae,9
+Iggy and The Stooges,Raw Power,1973,0:33:26,Punk,8
+Hawkwind,Space Ritual,1973,1:26:55,Rock,17
+The Incredible Bongo Band,Bongo Rock,1973,0:33:17,Funk,8
+Paul McCartney and Wings,Band on the Run,1973,0:41:08,Rock,9
+Lou Reed,Berlin,1973,0:49:23,Rock,10
+Faust,Faust IV,1973,0:43:37,Rock,8
+John Cale,Paris 1919,1973,0:31:30,Pop,9
+Genesis,Selling England by the Pound,1973,0:53:48,Rock,8
+John Martyn,Solid Air,1973,0:34:44,Rock,9
+New York Dolls,New York Dolls,1973,0:42:44,Punk,11
+Steely Dan,Countdown to Ecstasy,1973,0:41:10,Rock,8
+David Bowie,Aladdin Sane,1973,0:41:32,Rock,10
+Todd Rundgren,A Wizard / A True Star,1973,0:55:56,Pop,12
+Alice Cooper,Billion Dollar Babies,1973,0:40:51,Rock,10
+Can,Future Days,1973,0:41:04,Rock,4
+Elton John,Goodbye Yellow Brick Road,1973,1:16:20,Rock,17
+Stevie Wonder,Innervisions,1973,0:43:52,Soul,9
+King Crimson,Larks' Tongues in Aspic,1973,0:46:36,Rock,6
+Marvin Gaye,Let's Get It On,1973,0:31:36,Soul,8
+Lynyrd Skynyrd,(pronounced 'leh-'nerd 'skin-'nerd),1973,0:43:03,Rock,8
+Mike Oldfield,Tubular Bells,1973,0:49:18,Rock,2
+Herbie Hancock,Head Hunters,1973,0:41:38,Jazz,4
+Pink Floyd,The Dark Side of the Moon,1973,0:41:54,Rock,10
+Gram Parsons,Grievous Angel,1974,0:36:14,Country,9
+George Jones,The Grand Tour,1974,0:28:35,Country,11
+Eric Clapton,461 Ocean Boulevard,1974,0:43:21,Rock,10
+Richard and Linda Thompson,I Want to See the Bright Lights Tonight,1974,0:36:55,Folk,10
+Van Morrison,It's Too Late to Stop Now,1974,1:32:33,Rock,18
+Sparks,Kimono My House,1974,0:35:49,Rock,10
+Queen,Queen II,1974,0:40:34,Rock,11
+Queen,Sheer Heart Attack,1974,0:38:58,Rock,13
+Gene Clark,No Other,1974,0:43:07,Rock,8
+Supertramp,Crime of the Century,1974,0:44:10,Rock,8
+Randy Newman,Good Old Boys,1974,0:33:28,Rock,12
+10cc,Sheet Music,1974,0:37:12,Pop,10
+Gil Scott-Heron/Brian Jackson,Winter in America,1974,0:44:27,Soul,9
+Roxy Music,Country Life,1974,0:41:25,Rock,10
+Stevie Wonder,Fulfillingness' First Finale,1974,0:42:10,Soul,10
+Brian Eno,Here Come the Warm Jets,1974,0:41:40,Rock,10
+Shuggie Otis,Inspiration Information,1974,0:31:38,Soul,9
+Robert Wyatt,Rock Bottom,1974,0:39:35,Rock,6
+Steely Dan,Pretzel Logic,1974,0:33:14,Rock,11
+Bad Company,Bad Company,1974,0:34:45,Rock,8
+Joni Mitchell,Court and Spark,1974,0:36:58,Pop,11
+Bob Marley & The Wailers,Natty Dread,1974,0:38:59,Reggae,9
+Neil Young,On the Beach,1974,0:39:40,Rock,8
+Tangerine Dream,Phaedra,1974,0:37:33,Electronic,7
+Genesis,The Lamb Lies Down on Broadway,1974,1:34:17,Rock,23
+Kraftwerk,Autobahn,1974,0:42:27,Electronic,5
+Emmylou Harris,Pieces of the Sky,1975,0:38:40,Country,10
+Willie Nelson,Red Headed Stranger,1975,0:33:30,Country,15
+Bob Dylan,Blood on the Tracks,1975,0:51:46,Folk,10
+Keith Jarrett,The Koln Concert,1975,1:06:07,Jazz,4
+Dion,Born to Be With You,1975,0:35:10,Pop,8
+Aerosmith,Toys in the Attic,1975,0:36:59,Rock,9
+Queen,A Night at the Opera,1975,0:42:52,Rock,12
+Burning Spear,Marcus Garvey,1975,0:33:45,Reggae,10
+Parliament,Mothership Connection,1975,0:38:18,Funk,7
+"Earth, Wind & Fire",That's the Way of the World,1975,0:38:23,Soul,8
+Bruce Springsteen,Born to Run,1975,0:39:24,Rock,8
+The Dictators,Go Girl Crazy!,1975,0:34:48,Punk,9
+David Bowie,Young Americans,1975,0:40:00,Soul,8
+Curtis Mayfield,There's No Place Like America Today,1975,0:35:23,Soul,7
+Brian Eno,Another Green World,1975,0:40:55,Pop,14
+Patti Smith,Horses,1975,0:43:10,Punk,8
+Tom Waits,Nighthawks at the Diner,1975,1:13:54,Blues,19
+Joni Mitchell,The Hissing of Summer Lawns,1975,0:42:26,Folk,10
+Neil Young,Tonight's the Night,1975,0:44:52,Rock,12
+NEU!,NEU! '75,1975,0:42:33,Rock,6
+Led Zeppelin,Physical Graffiti,1975,1:24:27,Rock,15
+Pink Floyd,Wish You Were Here,1975,0:44:18,Rock,5
+Eagles,Hotel California,1976,0:43:28,Rock,9
+Aerosmith,Rocks,1976,0:34:57,Rock,9
+Joan Armatrading,Joan Armatrading,1976,0:41:33,Folk,10
+Stevie Wonder,Songs in the Key of Life,1976,1:44:38,Soul,21
+Peter Frampton,Frampton Comes Alive!,1976,1:18:06,Rock,14
+KISS,Destroyer,1976,0:34:28,Rock,10
+Tom Petty and The Heartbreakers,Tom Petty and The Heartbreakers,1976,0:30:38,Rock,10
+ABBA,Arrival,1976,0:33:12,Pop,10
+Peter Tosh,Legalize It,1976,0:38:29,Reggae,9
+Jorge Ben,africa Brasil,1976,0:41:35,Rock,11
+Boston,Boston,1976,0:37:07,Rock,8
+Joni Mitchell,Hejira,1976,0:51:23,Folk,9
+David Bowie,Station to Station,1976,0:37:46,Rock,6
+The Modern Lovers,The Modern Lovers,1976,0:34:51,Punk,9
+Jean Michel Jarre,Oxygene,1976,0:39:45,Electronic,6
+Ramones,Ramones,1976,0:28:52,Punk,14
+Rush,2112,1976,0:38:42,Rock,6
+Fela Anikulapo Kuti and Afrika 70,Zombie,1976,0:34:00,Afrobeat,3
+Penguin Cafe Orchestra,Music From the Penguin Cafe,1976,0:44:55,Folk,5
+Elvis Costello,My Aim Is True,1977,0:32:56,Rock,12
+Television,Marquee Moon,1977,0:45:54,Rock,8
+Meat Loaf,Bat Out of Hell,1977,0:46:25,Rock,7
+Electric Light Orchestra,Out of the Blue,1977,1:10:18,Rock,17
+Dennis Wilson,Pacific Ocean Blue,1977,0:36:48,Rock,12
+Iggy Pop,Lust for Life,1977,0:41:53,Rock,9
+Peter Gabriel,Peter Gabriel,1977,0:41:42,Rock,9
+Suicide,Suicide,1977,0:32:07,Punk,7
+Iggy Pop,The Idiot,1977,0:38:49,Rock,8
+Steely Dan,Aja,1977,0:39:31,Rock,7
+Brian Eno,Before and After Science,1977,0:40:00,Rock,10
+Bob Marley & The Wailers,Exodus,1977,0:37:27,Reggae,10
+Ian Dury,New Boots and Panties!!,1977,0:37:29,Rock,10
+Wire,Pink Flag,1977,0:35:19,Punk,21
+The Stranglers,Stranglers IV (Rattus Norvegicus),1977,0:38:57,Punk,9
+Talking Heads,Talking Heads: 77,1977,0:38:37,Punk,11
+Kraftwerk,Trans-Europe Express,1977,0:42:27,Electronic,7
+David Bowie,"""Heroes""",1977,0:40:19,Rock,10
+Muddy Waters,Hard Again,1977,0:45:23,Blues,9
+John Martyn,One World,1977,0:38:03,Folk,8
+The Clash,The Clash,1977,0:34:50,Punk,14
+Weather Report,Heavy Weather,1977,0:37:49,Jazz,8
+Sex Pistols,Never Mind the Bollocks Here's the Sex Pistols,1977,0:38:44,Punk,12
+Billy Joel,The Stranger,1977,0:42:16,Rock,10
+David Bowie,Low,1977,0:38:40,Rock,11
+Fleetwood Mac,Rumours,1977,0:39:03,Rock,11
+Joe Ely,Honky Tonk Masquerade,1978,0:33:57,Country,10
+The Only Ones,The Only Ones,1978,0:33:49,Pop,10
+Bruce Springsteen,Darkness on the Edge of Town,1978,0:42:29,Rock,10
+Pere Ubu,The Modern Dance,1978,0:36:20,Punk,10
+Elvis Costello,This Year's Model,1978,0:35:14,Rock,12
+Willie Colon & Ruben Blades,Siembra,1978,0:42:18,Dance,7
+Siouxsie and The Banshees,The Scream,1978,0:38:26,Punk,10
+Rahul Dev Burman,Shalimar,1978,0:40:00,Indian,10
+The Adverts,Crossing the Red Sea With The Adverts,1978,0:31:03,Punk,11
+Pere Ubu,Dub Housing,1978,0:36:46,Punk,10
+Marvin Gaye,"Here, My Dear",1978,1:11:51,Soul,14
+Blondie,Parallel Lines,1978,0:39:06,Rock,12
+Willie Nelson,Stardust,1978,0:36:43,Country,10
+The Saints,Eternally Yours,1978,0:36:02,Rock,13
+The Jam,All Mod Cons,1978,0:37:47,Punk,12
+Buzzcocks,Another Music in a Different Kitchen,1978,0:34:43,Punk,11
+Chic,C'est Chic,1978,0:42:04,Dance,8
+Dire Straits,Dire Straits,1978,0:42:00,Rock,9
+The Residents,Duck Stab / Buster & Glen,1978,0:35:20,Rock,14
+Talking Heads,More Songs About Buildings and Food,1978,0:41:32,Punk,11
+Funkadelic,One Nation Under a Groove,1978,0:59:36,Funk,10
+X-Ray Spex,Germfree Adolescents,1978,0:35:46,Punk,12
+Kraftwerk,The Man-Machine,1978,0:36:10,Electronic,6
+Brian Eno,Ambient 1: Music for Airports,1978,0:42:20,Folk,4
+Throbbing Gristle,D.o.A: The Third and Final Report of Throbbing Gristle,1978,0:41:50,Punk,13
+Thin Lizzy,Live and Dangerous,1978,1:12:00,Rock,17
+Devo,Q: Are We Not Men? A: We Are Devo!,1978,0:34:24,Punk,11
+Magazine,Real Life,1978,0:41:24,Punk,9
+Public Image Ltd,Public Image,1978,0:39:33,Punk,8
+Van Halen,Van Halen,1978,0:35:13,Rock,11
+The Cars,The Cars,1978,0:35:40,Rock,9
+Elvis Costello and The Attractions,Armed Forces,1979,0:40:05,Rock,12
+Michael Jackson,Off the Wall,1979,0:42:24,Dance,10
+Fleetwood Mac,Tusk,1979,1:13:45,Rock,20
+Talking Heads,Fear of Music,1979,0:40:25,Rock,11
+The Police,Reggatta de blanc,1979,0:41:42,Rock,11
+The B-52's,The B-52's,1979,0:39:14,Rock,9
+Gary Numan,The Pleasure Principle,1979,0:40:47,Pop,10
+The Slits,Cut,1979,0:31:52,Punk,10
+The Damned,Machine Gun Etiquette,1979,0:35:28,Punk,12
+The Undertones,The Undertones,1979,0:29:29,Punk,14
+Cheap Trick,At Budokan,1979,0:42:00,Rock,10
+Germs,(GI),1979,0:37:04,Punk,16
+The Fall,Live at the Witch Trials,1979,0:38:39,Punk,11
+PiL,Metal Box,1979,1:00:33,Punk,10
+Holger Czukay,Movies,1979,0:39:40,Rock,4
+Chic,Risque,1979,0:36:59,Dance,7
+The Specials,Specials,1979,0:45:00,Ska,14
+The Crusaders,Street Life,1979,0:39:21,Jazz,6
+Gang of Four,Entertainment!,1979,0:40:09,Punk,12
+Marianne Faithfull,Broken English,1979,0:37:15,Pop,8
+AC/DC,Highway to Hell,1979,0:41:00,Rock,10
+Neil Young & Crazy Horse,Rust Never Sleeps,1979,0:38:16,Rock,9
+Joy Division,Unknown Pleasures,1979,0:38:21,Punk,10
+Sister Sledge,We Are Family,1979,0:41:22,Dance,8
+The Clash,London Calling,1979,1:05:04,Punk,19
+Pink Floyd,The Wall,1979,1:20:41,Rock,26
+Adam and the Ants,Kings of the Wild Frontier,1980,0:41:33,Rock,12
+The Teardrop Explodes,Kilimanjaro,1980,0:39:45,Rock,11
+Dexys Midnight Runners,Searching for the Young Soul Rebels,1980,0:41:37,Rock,11
+UB40,Signing Off,1980,1:06:22,Reggae,10
+Jerry Lee Lewis,"Live at the Star Club, Hamburg",1980,0:37:02,Rock,13
+Echo and The Bunnymen,Crocodiles,1980,0:33:00,Punk,10
+The Undertones,Hypnotised,1980,0:37:10,Punk,15
+Iron Maiden,Iron Maiden,1980,0:37:30,Metal,8
+Pretenders,Pretenders,1980,0:46:32,Rock,12
+Steve Winwood,Arc of a Diver,1980,0:39:49,Rock,7
+The Specials,More Specials,1980,0:45:32,Ska,12
+Talking Heads,Remain in Light,1980,0:40:10,Rock,8
+The Jam,Sound Affects,1980,0:35:18,Rock,11
+The Soft Boys,Underwater Moonlight,1980,0:36:00,Rock,10
+AC/DC,Back in Black,1980,0:41:45,Rock,10
+Tom Waits,Heartattack and Vine,1980,0:43:42,Blues,9
+Killing Joke,Killing Joke,1980,0:34:27,Punk,8
+Japan,Quiet Life,1980,0:44:51,Pop,8
+The Cure,Seventeen Seconds,1980,0:35:33,Rock,10
+Peter Gabriel,Peter Gabriel,1980,0:44:52,Rock,10
+Joy Division,Closer,1980,0:44:14,Punk,9
+Judas Priest,British Steel,1980,0:35:50,Metal,9
+Motorhead,Ace of Spades,1980,0:36:17,Metal,12
+The Cramps,Songs the Lord Taught Us,1980,0:37:54,Punk,13
+Circle Jerks,Group Sex,1980,0:15:00,Punk,14
+Dead Kennedys,Fresh Fruit for Rotting Vegetables,1980,0:32:55,Punk,14
+The Psychedelic Furs,Talk Talk Talk,1981,0:41:11,Rock,10
+Heaven 17,Penthouse and Pavement,1981,0:38:12,Pop,9
+Orchestral Manoeuvres in the Dark,Architecture & Morality,1981,0:37:13,Pop,9
+The Human League,Dare,1981,0:40:46,Pop,10
+Soft Cell,Non-Stop Erotic Cabaret,1981,0:40:32,Pop,10
+Go-Go's,Beauty and the Beat,1981,0:34:53,Pop,11
+The Gun Club,Fire of Love,1981,0:39:39,Punk,11
+Brian Eno-David Byrne,My Life in the Bush of Ghosts,1981,0:39:38,Rock,11
+ABBA,The Visitors,1981,0:37:39,Pop,9
+X,Wild Gift,1981,0:33:00,Punk,13
+Siouxsie and The Banshees,Juju,1981,0:41:06,Rock,9
+Einsta¼rzende Neubauten,Kollaps,1981,0:38:58,Punk,24
+Bauhaus,Mask,1981,0:34:15,Rock,10
+Black Flag,Damaged,1981,0:34:32,Punk,15
+Tom Tom Club,Tom Tom Club,1981,0:36:49,Pop,8
+Motorhead,No Sleep 'Til Hammersmith,1981,0:40:41,Metal,11
+Bobby Womack,The Poet,1981,0:39:37,Soul,8
+Rush,Moving Pictures,1981,0:39:44,Rock,7
+Elvis Costello and The Attractions,Imperial Bedroom,1982,0:50:49,Rock,15
+The Birthday Party,Junkyard,1982,0:47:08,Punk,10
+Bruce Springsteen,Nebraska,1982,0:40:50,Folk,10
+Haircut One Hundred,Pelican West,1982,0:45:36,Rock,12
+Associates,Sulk,1982,0:41:11,Pop,10
+ABC,The Lexicon of Love,1982,0:37:48,Pop,10
+Madness,The Rise & Fall,1982,0:43:09,Rock,13
+The Cure,Pornography,1982,0:43:30,Rock,8
+Simple Minds,New Gold Dream (81-82-83-84),1982,0:45:51,Pop,9
+Duran Duran,Rio,1982,0:42:32,Pop,9
+Grandmaster Flash & The Furious Five,The Message,1982,0:37:04,Hip Hop,7
+Michael Jackson,Thriller,1982,0:42:15,RnB,9
+Kevin Rowland & Dexys Midnight Runners,Too-Rye-Ay,1982,0:42:26,Rock,9
+Orange Juice,Rip It Up,1982,0:42:20,Pop,10
+Prince,1999,1982,1:10:00,Funk,11
+Kate Bush,The Dreaming,1982,0:43:53,Pop,10
+Donald Fagen,The Nightfly,1982,0:38:46,Pop,8
+Iron Maiden,The Number of the Beast,1982,0:39:11,Metal,8
+Venom,Black Metal,1982,0:42:40,Metal,10
+Elis Regina,Vento do Maio,1983,0:48:15,Pop,13
+U2,War,1983,0:42:03,Punk,10
+R.E.M.,Murmur,1983,0:42:59,Rock,12
+Cyndi Lauper,She's So Unusual,1983,0:38:00,Rock,10
+Culture Club,Colour by Numbers,1983,0:38:14,Pop,10
+Malcolm McLaren,Duck Rock,1983,0:43:36,Hip Hop,11
+Eurythmics,Sweet Dreams (Are Made of This),1983,0:42:21,Pop,10
+Paul Simon,Hearts and Bones,1983,0:40:53,Pop,10
+Hanoi Rocks,Back to Mystery City,1983,0:41:46,Rock,10
+Echo & The Bunnymen,Porcupine,1983,0:45:31,Punk,10
+The Police,Synchronicity,1983,0:39:40,Rock,10
+The The,Soul Mining,1983,0:41:46,Pop,7
+ZZ Top,Eliminator,1983,0:45:00,Rock,11
+Minor Threat,Out of Step,1983,0:21:36,Punk,9
+Def Leppard,Pyromania,1983,0:44:58,Rock,10
+Violent Femmes,Violent Femmes,1983,0:35:58,Folk,10
+Tom Waits,Swordfishtrombones,1983,0:41:43,Rock,15
+Cocteau Twins,Treasure,1984,0:41:19,Pop,10
+Frankie Goes to Hollywood,Welcome to the Pleasuredome,1984,1:05:14,Pop,17
+Lloyd Cole and The Commotions,Rattlesnakes,1984,0:35:59,Pop,10
+The Blue Nile,A Walk Across the Rooftops,1984,0:37:47,Pop,7
+Echo & The Bunnymen,Ocean Rain,1984,0:36:36,Rock,9
+Run-D.M.C.,Run-D.M.C.,1984,0:39:27,Hip Hop,9
+Van Halen,1984,1984,0:33:18,Rock,9
+Tina Turner,Private Dancer,1984,0:39:31,Pop,9
+Youssou N'Dour et le Super a‰toile de Dakar,Vol. 8 : Immigres / Bitim rew,1984,0:35:28,African,4
+The Style Council,Cafe Bleu,1984,0:43:57,Pop,13
+Sade,Diamond Life,1984,0:45:06,Pop,9
+Minutemen,Double Nickels on the Dime,1984,1:19:14,Punk,45
+The Replacements,Let It Be,1984,0:32:56,Rock,11
+Meat Puppets,Meat Puppets II,1984,0:29:57,Punk,12
+Bruce Springsteen,Born in the U.S.A.,1984,0:46:19,Rock,12
+Prince and The Revolution,Purple Rain,1984,0:43:50,Rock,9
+Scritti Politti,Cupid & Psyche 85,1985,0:38:50,Pop,9
+Simply Red,Picture Book,1985,0:44:21,Rock,10
+a-ha,Hunting High and Low,1985,0:36:39,Pop,10
+New Order,Low-Life,1985,0:40:04,Pop,8
+The Smiths,Meat Is Murder,1985,0:39:41,Pop,9
+Dire Straits,Brothers in Arms,1985,0:46:20,Rock,9
+Prefab Sprout,Steve McQueen,1985,0:45:18,Pop,11
+Mekons,Fear and Whiskey,1985,0:35:13,Punk,10
+The Pogues,Rum Sodomy & the Lash,1985,0:42:49,Rock,12
+The Fall,This Nation's Saving Grace,1985,0:47:54,Punk,11
+The Jesus and Mary Chain,Psychocandy,1985,0:38:29,Pop,14
+Tom Waits,Rain Dogs,1985,0:53:49,Rock,19
+Tears for Fears,Songs From the Big Chair,1985,0:40:27,Pop,8
+Sam Cooke,"Live at the Harlem Square Club, 1963",1985,0:37:31,Soul,9
+Suzanne Vega,Suzanne Vega,1985,0:35:26,Folk,10
+Kate Bush,Hounds of Love,1985,0:47:03,Pop,12
+Nanci Griffith,The Last of the True Believers,1986,0:35:16,Country,11
+Steve Earle,Guitar Town,1986,0:34:35,Rock,11
+Elvis Costello and The Attractions,Blood & Chocolate,1986,0:47:48,Rock,11
+Talk Talk,The Colour of Spring,1986,0:45:40,Pop,8
+Afrika Bambaataa & Soulsonic Force,Planet Rock: The Album,1986,0:43:00,Hip Hop,7
+Anita Baker,Rapture,1986,0:37:30,Soul,8
+Bon Jovi,Slippery When Wet,1986,0:43:04,Rock,10
+The Smiths,The Queen Is Dead,1986,0:36:47,Pop,10
+The The,Infected,1986,0:40:29,Pop,8
+Paul Simon,Graceland,1986,0:43:18,Pop,11
+XTC,Skylarking,1986,0:45:47,Pop,14
+Bad Brains,I Against I,1986,0:31:53,Metal,10
+Peter Gabriel,So,1986,0:41:58,Pop,8
+Abdullah Ibrahim,Water From an Ancient Well,1986,0:46:27,Jazz,8
+Throwing Muses,Throwing Muses,1986,0:37:39,Punk,10
+Sonic Youth,EVOL,1986,0:28:35,Rock,9
+Beastie Boys,Licensed to Ill,1986,0:44:35,Hip Hop,13
+Run-D.M.C.,Raising Hell,1986,0:39:43,Hip Hop,12
+Megadeth,Peace Sells... But Who's Buying?,1986,0:35:52,Metal,8
+Slayer,Reign in Blood,1986,0:28:00,Metal,10
+Billy Bragg,Talking With the Taxman About Poetry,1986,0:37:27,Folk,12
+Big Black,Atomizer,1986,0:36:58,Rock,10
+Metallica,Master of Puppets,1986,0:54:00,Metal,8
+"Dolly Parton , Linda Ronstadt , Emmylou Harris",Trio,1987,0:38:24,Country,11
+Pet Shop Boys,Actually,1987,0:47:52,Pop,10
+The Triffids,Calenture,1987,0:46:24,Rock,12
+Terence Trent D'Arby,Introducing the Hardline According to Terence Trent D'Arby,1987,0:47:09,RnB,11
+The Jesus and Mary Chain,Darklands,1987,0:36:03,Rock,10
+George Michael,Faith,1987,0:47:29,Pop,9
+Laibach,Opus Dei,1987,0:37:16,Rock,8
+The Smiths,"Strangeways, Here We Come",1987,0:35:49,Pop,10
+The Cult,Electric,1987,0:38:51,Rock,11
+Sonic Youth,Sister,1987,0:37:32,Rock,10
+Anthrax,Among the Living,1987,0:50:13,Metal,9
+Michael Jackson,Bad,1987,0:43:44,Pop,10
+The Sisters of Mercy,Floodland,1987,0:49:24,Rock,8
+Def Leppard,Hysteria,1987,1:02:32,Rock,12
+Depeche Mode,Music for the Masses,1987,0:43:35,Pop,10
+Ladysmith Black Mambazo,Shaka Zulu,1987,0:36:30,African,10
+Prince,Sign of the Times,1987,1:20:06,RnB,16
+U2,The Joshua Tree,1987,0:50:11,Rock,11
+Husker Du,Warehouse: Songs and Stories,1987,1:08:35,Rock,20
+R.E.M.,Document,1987,0:39:34,Rock,11
+Guns n' Roses,Appetite for Destruction,1987,0:53:42,Rock,12
+Napalm Death,Scum,1987,0:31:54,Metal,27
+Butthole Surfers,Locust Abortion Technician,1987,0:32:37,Rock,11
+Astor Piazzolla & Gary Burton,The New Tango: Recorded at the Montreux Festival,1987,0:55:02,Jazz,6
+Dinosaur,You're Living All Over Me,1987,0:35:37,Rock,9
+k.d. lang,Shadowland,1988,0:35:17,Country,12
+Everything but the Girl,Idlewild,1988,0:45:17,Pop,11
+Dwight Yoakam,Buenas noches From a Lonely Room,1988,0:36:38,Country,11
+Cowboy Junkies,The Trinity Session,1988,0:52:36,Country,12
+The Go-Betweens,16 Lovers Lane,1988,0:37:04,Rock,13
+American Music Club,California,1988,0:41:32,Rock,12
+The Pogues,If I Should Fall From Grace With God,1988,0:51:43,Punk,15
+Happy Mondays,Bummed,1988,0:37:27,Rock,10
+The Waterboys,Fisherman's Blues,1988,0:52:49,Rock,12
+Dagmar Krause,Tank Battles: The Songs of Hanns Eisler,1988,0:58:20,Jazz,26
+My Bloody Valentine,Isn't Anything,1988,0:38:00,Rock,12
+Morrissey,Viva Hate,1988,0:42:16,Rock,12
+Jane's Addiction,Nothing's Shocking,1988,0:40:43,Rock,10
+Mudhoney,Superfuzz Bigmuff,1988,0:23:07,Rock,6
+Fishbone,Truth and Soul,1988,0:41:31,Funk,12
+Living Colour,Vivid,1988,0:46:42,Rock,11
+The Sugarcubes,Life's Too Good,1988,0:33:13,Punk,11
+Dinosaur Jr,Bug,1988,0:35:24,Rock,9
+R.E.M.,Green,1988,0:40:53,Rock,11
+Leonard Cohen,I'm Your Man,1988,0:40:56,Pop,8
+Tracy Chapman,Tracy Chapman,1988,0:35:51,Folk,11
+Sonic Youth,Daydream Nation,1988,1:10:41,Rock,12
+Public Enemy,It Takes a Nation of Millions to Hold Us Back,1988,0:58:06,Hip Hop,16
+N.W.A,Straight Outta Compton,1988,0:48:27,Hip Hop,10
+Pixies,Surfer Rosa,1988,0:33:24,Rock,13
+Metallica,...And Justice for All,1988,1:05:10,Metal,9
+Madonna,Like a Prayer,1989,0:51:16,Pop,11
+Lenny Kravitz,Let Love Rule,1989,0:55:27,Rock,10
+Neneh Cherry,Raw Like Sushi,1989,0:46:11,Hip Hop,10
+Aerosmith,Pump,1989,0:48:02,Rock,10
+New Order,Technique,1989,0:39:50,Dance,9
+Bonnie Raitt,Nick of Time,1989,0:42:31,Rock,11
+Soul II Soul,Club Classics Vol. One,1989,0:46:55,Soul,10
+John Zorn,Spy vs. Spy,1989,0:40:54,Jazz,17
+Jungle Brothers,Done by the Forces of Nature,1989,1:00:07,Hip Hop,16
+Faith No More,The Real Thing,1989,0:54:58,Metal,12
+The Stone Roses,The Stone Roses,1989,0:48:20,Rock,11
+Baaba Maal & Mansour Seck,Djam Leelii,1989,0:52:50,African,9
+Kate Bush,The Sensual World,1989,0:42:24,Pop,10
+Coldcut,What's That Noise?,1989,0:44:54,Electronic,11
+John Lee Hooker,The Healer,1989,0:41:18,Blues,10
+Janet Jackson,Rhythm Nation 1814,1989,1:03:22,Pop,14
+De La Soul,3 Feet High and Rising,1989,1:01:48,Hip Hop,23
+808 State,90,1989,0:39:14,Electronic,8
+Queen Latifah,All Hail the Queen,1989,0:49:03,Hip Hop,12
+The Cure,Disintegration,1989,0:56:24,Rock,10
+Pixies,Doolittle,1989,0:38:36,Rock,15
+fIREHOSE,fROMOHIO,1989,0:31:13,Rock,14
+The Young Gods,L'eau rouge,1989,0:33:46,Rock,8
+Spacemen 3,Playing With Fire,1989,0:46:45,Rock,9
+Barry Adamson,Moss Side Story,1989,0:53:54,Jazz,15
+Beastie Boys,Paul's Boutique,1989,0:52:54,Hip Hop,15
+The La's,The La's,1990,0:35:14,Rock,12
+Pet Shop Boys,Behaviour,1990,0:49:01,Pop,10
+Fugazi,Repeater,1990,0:35:14,Rock,11
+Happy Mondays,Pills 'n' Thrills and Bellyaches,1990,0:43:49,Rock,10
+Cocteau Twins,Heaven or Las Vegas,1990,0:37:50,Pop,10
+George Michael,Listen Without Prejudice Vol. 1,1990,0:48:13,Pop,10
+Deee-Lite,World Clique,1990,0:48:05,Dance,12
+Ride,Nowhere,1990,0:52:12,Rock,11
+Sonic Youth,Goo,1990,0:49:48,Rock,11
+Digital Underground,Sex Packets,1990,1:05:26,Hip Hop,14
+Jane's Addiction,Ritual de lo habitual,1990,0:51:30,Rock,9
+Sinead O'Connor,I Do Not Want What I Haven't Got,1990,0:51:08,Pop,10
+L.L. Cool J,Mama Said Knock You Out,1990,1:01:36,Hip Hop,14
+Neil Young + Crazy Horse,Ragged Glory,1990,1:02:43,Rock,10
+Depeche Mode,Violator,1990,0:46:33,Pop,9
+Ice Cube,AmeriKKKa's Most Wanted,1990,0:49:06,Hip Hop,16
+Pixies,Bossanova,1990,0:39:41,Rock,14
+Public Enemy,Fear of a Black Planet,1990,1:03:10,Hip Hop,20
+The Black Crowes,Shake Your Money Maker,1990,0:44:52,Rock,11
+The Shamen,En-Tact,1990,1:05:17,Electronic,15
+A Tribe Called Quest,People's Instinctive Travels and the Paths of Rhythm,1990,1:04:03,Hip Hop,14
+Megadeth,Rust in Peace,1990,0:40:44,Metal,9
+Teenage Fanclub,Bandwagonesque,1991,0:42:00,Pop,12
+Massive Attack,Blue Lines,1991,0:45:05,Hip Hop,9
+Crowded House,Woodface,1991,0:48:03,Rock,14
+The KLF,The White Room,1991,0:39:38,Dance,9
+U2,Achtung Baby,1991,0:55:27,Rock,12
+Mudhoney,Every Good Boy Deserves Fudge,1991,0:42:35,Rock,14
+Jah Wobble's Invaders of the Heart,Rising Above Bedlam,1991,0:51:33,Electronic,10
+Gang Starr,Step in the Arena,1991,0:49:18,Hip Hop,18
+Primal Scream,Screamadelica,1991,1:02:31,Dance,11
+Saint Etienne,Foxbase Alpha,1991,0:58:19,Dance,15
+Ice-T,O.G. Original Gangster,1991,1:12:47,Hip Hop,24
+Red Hot Chili Peppers,Blood Sugar Sex Magik,1991,1:14:21,Rock,17
+Cypress Hill,Cypress Hill,1991,0:46:46,Hip Hop,16
+Metallica,Metallica,1991,1:02:16,Metal,12
+Julian Cope,Peggy Suicide,1991,1:15:44,Rock,18
+MC Solaar,Qui sa me le vent recolte le tempo,1991,0:51:41,Hip Hop,16
+Pearl Jam,Ten,1991,0:54:47,Rock,11
+Public Enemy,Apocalypse 91...The Enemy Strikes Black,1991,0:51:54,Hip Hop,14
+Sepultura,Arise,1991,0:42:27,Metal,9
+My Bloody Valentine,Loveless,1991,0:48:51,Rock,11
+Slint,Spiderland,1991,0:39:31,Rock,6
+Nirvana,Nevermind,1991,0:42:32,Rock,12
+A Tribe Called Quest,The Low End Theory,1991,0:48:03,Hip Hop,14
+Tori Amos,Little Earthquakes,1992,0:57:11,Pop,12
+Nusrat Fateh Ali Khan,Devotional Songs,1992,0:45:18,Indian,6
+Stereo MC's,Connected,1992,0:53:26,Dance,12
+PJ Harvey,Dry,1992,0:40:01,Rock,11
+Lemonheads,It's a Shame About Ray,1992,0:29:17,Pop,12
+k.d. lang,Inganue,1992,0:41:53,Country,10
+Arrested Development,"3 Years, 5 Months and 2 Days in the Life of...",1992,0:56:13,Hip Hop,15
+R.E.M.,Automatic for the People,1992,0:48:25,Rock,12
+Koffi Olomid,"Haut de gamme tcha-tcho ""Echelon Ngomba"" - Koweat, rive gauche",1992,0:58:26,African,9
+Nick Cave & The Bad Seeds,Henry's Dream,1992,0:41:30,Punk,9
+Pavement,Slanted and Enchanted,1992,0:39:01,Rock,14
+Morrissey,Your Arsenal,1992,0:39:29,Rock,10
+Baaba Maal,Lam Toro,1992,0:52:22,African,10
+Sugar,Copper Blue,1992,0:45:00,Rock,10
+Sonic Youth,Dirty,1992,0:59:07,Rock,15
+Big Star,Third / Sister Lovers,1992,0:55:04,Pop,19
+Ministry,ΚΕΦΑΛΗΞΘ [Psalm 69],1992,0:44:38,Metal,9
+The Disposable Heroes of Hiphoprisy,Hypocrisy Is the Greatest Luxury,1992,1:06:19,Hip Hop,13
+Spiritualized,Lazer Guided Melodies,1992,1:00:58,Pop,4
+Pantera,Vulgar Display of Power,1992,0:52:48,Metal,11
+The Pharcyde,Bizarre Ride II the Pharcyde,1992,0:56:44,Hip Hop,16
+Aphex Twin,Selected Ambient Works 85-92,1992,1:14:20,Electronic,13
+Dr. Dre,The Chronic,1992,1:02:51,Hip Hop,16
+Ice Cube,The Predator,1992,0:56:21,Hip Hop,16
+Tom Waits,Bone Machine,1992,0:54:04,Rock,16
+Alice in Chains,Dirt,1992,0:57:32,Rock,13
+Rage Against the Machine,Rage Against the Machine,1992,0:52:56,Metal,10
+The Auteurs,New Wave,1993,0:43:41,Rock,12
+Sheryl Crow,Tuesday Night Music Club,1993,0:49:42,Pop,11
+Pet Shop Boys,Very,1993,0:53:17,Pop,12
+Suede,Suede,1993,0:45:36,Pop,11
+Grant Lee Buffalo,Fuzzy,1993,0:48:31,Country,11
+Girls Against Boys,Venus Luxure No. 1 Baby,1993,0:46:18,Rock,11
+Aimee Mann,Whatever,1993,0:52:14,Pop,14
+Paul Weller,Wild Wood,1993,0:54:04,Rock,16
+Jamiroquai,Emergency on Planet Earth,1993,0:55:01,Jazz,10
+Liz Phair,Exile in Guyville,1993,0:55:40,Rock,18
+Blur,Modern Life Is Rubbish,1993,1:09:39,Pop,19
+The Afghan Whigs,Gentlemen,1993,0:48:56,Rock,11
+The Fall,The Infotainment Scan,1993,0:40:51,Punk,10
+PJ Harvey,Rid of Me,1993,0:47:59,Rock,14
+The Boo Radleys,Giant Steps,1993,1:04:02,Rock,17
+Orbital,Orbital [Brown Album],1993,1:05:37,Electronic,10
+William Orbit,Strange Cargo III,1993,1:03:47,Electronic,12
+Sebadoh,Bubble & Scrape,1993,0:46:12,Rock,17
+Snoop Doggy Dogg,Doggystyle,1993,0:54:49,Hip Hop,19
+Smashing Pumpkins,Siamese Dream,1993,1:02:08,Rock,13
+Bjork,Debut,1993,0:48:15,Pop,11
+Wu-Tang Clan,Enter the Wu-Tang (36 Chambers),1993,0:58:23,Hip Hop,12
+Nirvana,In Utero,1993,0:41:00,Rock,12
+Elvis Costello,Brutal Youth,1994,0:56:55,Rock,15
+Green Day,Dookie,1994,0:39:35,Punk,14
+G. Love and Special Sauce,G. Love and Special Sauce,1994,0:58:29,Hip Hop,14
+Nine Inch Nails,The Downward Spiral,1994,1:05:02,Rock,14
+Pavement,"Crooked Rain, Crooked Rain",1994,0:42:16,Rock,12
+Massive Attack,Protection,1994,0:49:02,Hip Hop,10
+Frank Black,Teenager of the Year,1994,1:02:38,Rock,22
+Suede,Dog Man Star,1994,0:57:50,Pop,12
+Manic Street Preachers,The Holy Bible,1994,0:56:17,Rock,13
+Portishead,Dummy,1994,0:45:23,Hip Hop,10
+Ali Farka Toure,Talking Timbuktu,1994,0:59:58,Blues,10
+Oasis,Definitely Maybe,1994,0:51:56,Pop,11
+The Sabres of Paradise,Haunted Dancehall,1994,1:16:50,Electronic,14
+The Prodigy,Music for the Jilted Generation,1994,1:18:07,Electronic,13
+Blur,Parklife,1994,0:52:43,Pop,16
+Jeff Buckley,Grace,1994,0:51:43,Rock,10
+Orbital,Snivilisation,1994,1:15:08,Electronic,10
+Soundgarden,Superunknown,1994,1:10:10,Rock,15
+Jeru the Damaja,The Sun Rises in the East,1994,0:39:30,Hip Hop,13
+Method Man,Tical,1994,0:43:43,Hip Hop,13
+Morrissey,Vauxhall and I,1994,0:39:47,Pop,11
+TLC,CrazySexyCool,1994,0:56:10,Hip Hop,16
+Beastie Boys,Ill Communication,1994,0:59:29,Hip Hop,20
+Nas,Illmatic,1994,0:39:44,Hip Hop,10
+Hole,Live Through This,1994,0:38:03,Rock,12
+Drive Like Jehu,Yank Crime,1994,0:53:15,Rock,9
+The Notorious B.I.G.,Ready to Die,1994,1:08:58,Hip Hop,17
+Nirvana,MTV Unplugged in New York,1994,0:53:54,Rock,14
+Offspring,Smash,1994,0:46:37,Rock,14
+D'Angelo,Brown Sugar,1995,0:53:21,Soul,10
+The Verve,A Northern Soul,1995,1:03:59,Pop,12
+Foo Fighters,Foo Fighters,1995,0:44:00,Rock,12
+Tricky,Maxinquaye,1995,0:57:08,Hip Hop,12
+Guided by Voices,Alien Lanes,1995,0:41:01,Rock,28
+Femi Kuti,Femi Kuti,1995,1:13:42,Afrobeat,10
+Pulp,Different Class,1995,0:52:19,Pop,12
+Elastica,Elastica,1995,0:40:21,Pop,16
+Supergrass,I Should Coco,1995,0:40:17,Pop,13
+2Pac,Me Against the World,1995,1:05:56,Hip Hop,15
+Radiohead,The Bends,1995,0:48:36,Rock,12
+Goldie,Timeless,1995,1:45:13,Electronic,12
+Rocket From the Crypt,"Scream, Dracula, Scream!",1995,0:43:36,Rock,14
+Raekwon,Only Built 4 Cuban Linx...,1995,1:10:41,Hip Hop,18
+Nightmares on Wax,Smokers Delight,1995,1:14:29,Electronic,16
+Oasis,(What's the Story) Morning Glory?,1995,0:50:03,Pop,12
+GZA/Genius,Liquid Swords,1995,0:55:15,Hip Hop,13
+The Chemical Brothers,Exit Planet Dust,1995,0:49:19,Electronic,11
+Garbage,Garbage,1995,0:50:51,Rock,12
+Leftfield,Leftism,1995,1:10:02,Electronic,11
+The Smashing Pumpkins,Mellon Collie and the Infinite Sadness,1995,2:01:39,Rock,28
+Alanis Morissette,Jagged Little Pill,1995,0:57:24,Rock,13
+Ash,1977,1996,1:01:52,Pop,12
+Wilco,Being There,1996,1:16:47,Country,19
+Fun Lovin' Criminals,Come Find Yourself,1996,0:49:58,Rock,13
+Manic Street Preachers,Everything Must Go,1996,0:45:19,Rock,12
+The Cardigans,First Band on the Moon,1996,0:38:54,Pop,11
+Maxwell,Maxwell's Urban Hang Suite,1996,1:04:46,Soul,11
+The Jon Spencer Blues Explosion,Now I Got Worry,1996,0:45:10,Punk,16
+Belle and Sebastian,If You're Feeling Sinister,1996,0:41:18,Pop,10
+Marilyn Manson,Antichrist Superstar,1996,1:17:18,Metal,18
+Eels,Beautiful Freak,1996,0:43:53,Rock,12
+Dr. Octagon,Dr. Octagon,1996,1:08:31,Hip Hop,19
+Stereolab,Emperor Tomato Ketchup,1996,0:57:15,Pop,13
+LTJ Bukem,Logical Progression,1996,2:22:32,Dance,20
+Sepultura,Roots,1996,1:12:30,Metal,16
+Everything but the Girl,Walking Wounded,1996,0:52:18,Electronic,11
+The Divine Comedy,Casanova,1996,0:51:45,Pop,11
+Screaming Trees,Dust,1996,0:44:15,Rock,10
+Super Furry Animals,Fuzzy Logic,1996,0:41:08,Rock,12
+Fatboy Slim,Better Living Through Chemistry,1996,0:57:47,Electronic,10
+Tortoise,Millions Now Living Will Never Die,1996,0:42:56,Rock,6
+Beck,Odelay,1996,0:54:10,Rock,13
+Underworld,Second Toughest in the Infants,1996,1:13:01,Electronic,8
+Fugees,The Score,1996,1:13:23,Hip Hop,16
+Nick Cave & The Bad Seeds,Murder Ballads,1996,0:59:29,Rock,10
+Barry Adamson,Oedipus Schmoedipus,1996,0:55:50,Jazz,13
+DJ Shadow,Endtroducing.....,1996,1:03:24,hip Hop,13
+Fiona Apple,Tidal,1996,0:51:29,Rock,10
+Belle and Sebastian,Tigermilk,1996,0:41:37,Pop,10
+Primal Scream,Vanishing Point,1997,0:53:31,Dance,11
+Mariah Carey,Butterfly,1997,0:57:20,RnB,12
+David Holmes,Let's Get Killed,1997,0:59:45,Electronic,13
+The Charlatans,Tellin' Stories,1997,0:46:56,Pop,11
+Finley Quaye,Maverick a Strike,1997,0:51:45,Reggae,13
+Cornershop,When I Was Born for the 7th Time,1997,0:54:17,Electronic,15
+The Dandy Warhols,...The Dandy Warhols Come Down,1997,1:06:24,Rock,14
+Supergrass,In It for the Money,1997,0:43:01,Pop,12
+Missy Misdemeanor Elliott,Supa Dupa Fly,1997,1:00:06,Hip Hop,17
+Bob Dylan,Time Out of Mind,1997,1:12:44,Folk,11
+Buena Vista Social Club,Buena Vista Social Club,1997,0:59:43,Cuban,14
+Daft Punk,Homework,1997,1:13:31,Electronic,16
+Spiritualized,Ladies and Gentlemen We Are Floating in Space,1997,1:09:54,Rock,12
+Robbie Williams,Life Thru a Lens,1997,0:52:38,Pop,12
+The Verve,Urban Hymns,1997,1:15:51,Pop,13
+Robert Wyatt,Shleep,1997,0:53:39,Rock,11
+The Divine Comedy,A Short Album About Love,1997,0:31:56,Pop,7
+Sleater-Kinney,Dig Me Out,1997,0:36:23,Punk,13
+Roni Size & Reprazent,New Forms,1997,1:18:49,Electronic,13
+Nick Cave & The Bad Seeds,The Boatman's Call,1997,0:52:06,Rock,12
+The Chemical Brothers,Dig Your Own Hole,1997,1:03:19,Electronic,11
+Elliott Smith,Either / Or,1997,0:36:52,Folk,12
+Prodigy,The Fat of the Land,1997,0:56:19,Electronic,10
+Blur,Blur,1997,0:57:06,Rock,14
+Radiohead,OK Computer,1997,0:53:21,Rock,12
+Kid Rock,Devil Without a Cause,1998,1:11:12,Rock,14
+Korn,Follow the Leader,1998,1:10:08,Metal,13
+Billy Bragg & Wilco,Mermaid Avenue,1998,0:49:20,Country,15
+Bob Dylan,"The Bootleg Series Vol. 4: Live 1966 - The ""Royal Albert Hall"" Concert",1998,1:35:18,Folk,15
+Lucinda Williams,Car Wheels on a Gravel Road,1998,0:51:40,Country,13
+Talvin Singh,OK,1998,1:00:48,Electronic,11
+Madonna,Ray of Light,1998,1:06:42,Pop,13
+Pulp,This Is Hardcore,1998,1:09:48,Rock,12
+Mercury Rev,Deserter's Songs,1998,0:44:38,Pop,12
+David Gray,White Ladder,1998,0:48:11,Rock,9
+Turbonegro,Apocalypse Dudes,1998,0:47:28,Punk,13
+Hole,Celebrity Skin,1998,0:50:23,Rock,12
+Manu Chao,Clandestino,1998,0:45:45,Reggae,16
+Lauryn Hill,The Miseducation of Lauryn Hill,1998,1:17:46,Hip Hop,16
+Fatboy Slim,"You've Come a Long Way, Baby",1998,1:01:58,Electronic,11
+AIR,Moon Safari,1998,0:43:33,Electronic,10
+Boards of Canada,Music Has the Right to Children,1998,1:03:23,Electronic,17
+Queens of the Stone Age,Queens of the Stone Age,1998,0:46:27,Rock,11
+System of a Down,System of a Down,1998,0:40:36,Metal,13
+Khaled,Kenza,1999,1:14:40,Indian,14
+Britney Spears,...Baby One More Time,1999,0:42:20,Pop,11
+Incubus,Make Yourself,1999,0:48:27,Rock,13
+Slipknot,Slipknot,1999,1:00:51,Metal,15
+Shack,H.M.S. Fable,1999,0:46:55,Pop,12
+Basement Jaxx,Remedy,1999,0:57:02,Electronic,15
+Beth Orton,Central Reservation,1999,0:58:50,Folk,12
+Les Rythmes Digitales,Darkdancer,1999,0:53:39,Electronic,12
+Bonnie 'Prince' Billy,I See a Darkness,1999,0:37:51,Country,11
+Eminem,The Slim Shady LP,1999,0:59:55,Hip Hop,20
+Nitin Sawhney,Beyond Skin,1999,0:58:22,Electronic,12
+Skunk Anansie,Post Orgasmic Chill,1999,0:51:10,Rock,12
+Metallica,S&M,1999,2:13:01,Metal,21
+XTC,Apple Venus Volume 1,1999,0:50:02,Pop,11
+Red Hot Chili Peppers,Californication,1999,0:56:17,Rock,15
+Le Tigre,Le Tigre,1999,0:34:18,Punk,12
+Death in Vegas,The Contino Sessions,1999,0:47:55,Electronic,9
+The Magnetic Fields,69 Love Songs,1999,2:52:04,Pop,69
+Travis,The Man Who,1999,0:47:30,Pop,10
+Sigur Ros,Agaetis Byrjun,1999,1:12:09,Rock,10
+Moby,Play,1999,1:03:04,Electronic,18
+The Flaming Lips,The Soft Bulletin,1999,0:58:26,Rock,14
+Limp Bizkit,Chocolate Starfish and the Hot Dog Flavored Water,2000,1:15:02,Metal,15
+Madonna,Music,2000,0:44:40,Pop,10
+Giant Sand,Chore of Enchantment,2000,0:58:38,Country,16
+U2,All That You Can't Leave Behind,2000,0:53:03,Rock,12
+Linkin Park,Hybrid Theory,2000,0:39:00,Metal,12
+Mike Ladd,Welcome to the Afterfuture,2000,1:02:39,Hip Hop,13
+Goldfrapp,Felt Mountain,2000,0:39:36,Pop,9
+Elliott Smith,Figure 8,2000,0:52:06,Folk,16
+Ryan Adams,Heartbreaker,2000,0:51:57,Country,15
+Lambchop,Nixon,2000,0:49:44,Pop,10
+Coldplay,Parachutes,2000,0:41:43,Pop,10
+Emmylou Harris,Red Dirt Girl,2000,0:55:58,Country,12
+Bebel Gilberto,Tanto tempo,2000,0:41:02,Jazz,11
+Eminem,The Marshall Mathers LP,2000,1:12:00,Hip Hop,18
+Suba,Sao Paulo Confessions,2000,1:01:16,Jazz,12
+MJ Cole,Sincere,2000,1:07:27,Electronic,16
+Common,Like Water for Chocolate,2000,1:17:51,Hip Hop,16
+Erykah Badu,Mama's Gun,2000,1:11:50,Soul,14
+Ute Lemper,Punishing Kiss,2000,0:57:24,Pop,12
+The Avalanches,Since I Left You,2000,1:01:30,Electronic,18
+Badly Drawn Boy,The Hour of Bewilderbeast,2000,1:03:25,Pop,18
+AIR,The Virgin Suicides,2000,0:40:31,Pop,13
+PJ Harvey,"Stories From the City, Stories From the Sea",2000,0:47:22,Rock,12
+Doves,Lost Souls,2000,0:59:09,Pop,12
+Red Snapper,Our Aim Is to Satisfy Red Snapper,2000,0:56:52,Jazz,11
+Radiohead,Kid A,2000,0:49:55,Rock,10
+OutKast,Stankonia,2000,1:13:07,Hip Hop,24
+Gillian Welch,Time (The Revelator),2001,0:51:34,Country,10
+Silver Jews,Bright Flight,2001,0:35:18,Rock,10
+Destiny's Child,Survivor,2001,0:59:37,RnB,15
+Drive-By Truckers,Southern Rock Opera,2001,1:33:43,Rock,20
+The Electric Prunes,I Had Too Much to Dream (Last Night),2001,0:34:09,Rock,14
+Royksopp,Melody A.M.,2001,0:45:58,Electronic,10
+The White Stripes,White Blood Cells,2001,0:40:36,Rock,16
+Gorillaz,Gorillaz,2001,1:04:44,Hip Hop,17
+Gotan Project,La revancha del tango,2001,0:58:40,Electronic,10
+Radiohead,Amnesiac,2001,0:43:50,Rock,11
+The Beta Band,Hot Shots II,2001,0:45:51,Electronic,10
+The Strokes,Is This It,2001,0:36:19,Rock,11
+Super Furry Animals,Rings Around the World,2001,0:52:46,Pop,13
+Jay-Z,The Blueprint,2001,1:04:16,Hip Hop,13
+Bjork,Vespertine,2001,0:55:39,Pop,12
+The Hives,Your New Favourite Band,2001,0:41:38,Rock,12
+Christina Aguilera,Stripped,2002,1:17:34,Pop,20
+Justin Timberlake,Justified,2002,1:03:15,RnB,13
+Ms Dynamite,A Little Deeper,2002,1:01:14,Soul,16
+Dexys Midnight Runners,Don't Stand Me Down (The Director's Cut),2002,0:51:30,Pop,8
+Bruce Springsteen,The Rising,2002,1:12:50,Rock,15
+Coldplay,A Rush of Blood to the Head,2002,0:54:08,Pop,11
+Johnny Cash,American IV: The Man Comes Around,2002,0:51:56,Country,15
+Norah Jones,Come Away With Me,2002,0:44:56,Jazz,14
+The Vines,Highly Evolved,2002,0:43:33,Rock,12
+Beck,Sea Change,2002,0:52:22,Rock,12
+The Bees,Sunshine Hit Me,2002,0:39:34,Pop,11
+The Coral,The Coral,2002,0:42:41,Rock,11
+Doves,The Last Broadcast,2002,0:54:17,Pop,12
+Wilco,Yankee Hotel Foxtrot,2002,0:51:34,Rock,11
+The Roots,Phrenology,2002,1:10:15,Hip Hop,18
+Jurassic 5,Power in Numbers,2002,0:56:30,Hip Hop,17
+The Flaming Lips,Yoshimi Battles the Pink Robots,2002,0:47:25,Pop,11
+Calexico,Feast of Wire,2003,0:47:29,Country,16
+Rufus Wainwright,Want One,2003,0:58:45,Pop,14
+The Thrills,So Much for the City,2003,0:46:29,Pop,11
+The Mars Volta,De-Loused in the Comatorium,2003,1:00:45,Rock,10
+The White Stripes,Elephant,2003,0:49:47,Rock,14
+The Darkness,Permission to Land,2003,0:38:08,Rock,10
+Kings of Leon,Youth & Young Manhood,2003,0:46:01,Rock,12
+Yeah Yeah Yeahs,Fever to Tell,2003,0:37:25,Rock,11
+Amy Winehouse,Frank,2003,0:58:40,Soul,13
+50 Cent,Get Rich or Die Tryin',2003,1:09:29,Hip Hop,19
+OutKast,Speakerboxxx / The Love Below,2003,2:14:25,Hip Hop,39
+Lightning Bolt,Wonderful Rainbow,2003,0:41:38,Rock,10
+Dizzee Rascal,Boy in da Corner,2003,0:57:06,Hip Hop,15
+Radiohead,Hail to the Thief,2003,0:56:33,Rock,14
+N*E*R*D,Fly or Die,2004,1:01:01,Rock,12
+The Libertines,The Libertines,2004,0:42:04,Rock,14
+Cee Lo Green,Cee-Lo Green... Is the Soul Machine,2004,1:05:25,Hip Hop,18
+The Icarus Line,Penance Soiree,2004,0:53:38,Rock,13
+Green Day,American Idiot,2004,0:57:19,Punk,13
+Scissor Sisters,Scissor Sisters,2004,0:42:54,Pop,11
+Devendra Banhart,Rejoicing in the Hands,2004,0:42:03,Folk,16
+The Streets,A Grand Don't Come for Free,2004,0:50:36,Hip Hop,11
+Kings of Leon,Aha Shake Heartbreak,2004,0:37:40,Rock,13
+Mylo,Destroy Rock & Roll,2004,0:54:59,Electronic,14
+The Beta Band,Heroes to Zeros,2004,0:42:11,Rock,12
+Kanye West,The College Dropout,2004,1:16:13,Hip Hop,21
+The Zutons,Who Killed The Zutons?,2004,0:40:13,Rock,12
+Morrissey,You Are the Quarry,2004,0:47:13,Rock,12
+Nick Cave & The Bad Seeds,Abattoir Blues / The Lyre of Orpheus,2004,1:22:24,Rock,17
+Brian Wilson,Smile,2004,0:46:55,Pop,17
+Liars,"They Were Wrong, So We Drowned",2004,0:40:35,Rock,10
+Rufus Wainwright,Want Two,2004,0:52:53,Pop,12
+Ozomatli,Street Signs,2004,0:51:40,Hip Hop,13
+TV on the Radio,"Desperate Youth, Blood Thirsty Babes",2004,0:47:03,Rock,9
+Franz Ferdinand,Franz Ferdinand,2004,0:38:45,Rock,11
+Arcade Fire,Funeral,2004,0:47:56,Rock,10
+Bjork,Medulla,2004,0:45:39,Pop,14
+The Killers,Hot Fuss,2004,0:46:37,Rock,11
+The White Stripes,Get Behind Me Satan,2005,0:44:07,Rock,13
+Beck,Guero,2005,0:49:55,Rock,13
+Richard Hawley,Coles Corner,2005,0:46:10,Pop,11
+M.I.A.,Arular,2005,0:35:08,Hip Hop,12
+Sufjan Stevens,Illinois,2005,1:13:59,Pop,22
+Common,Be,2005,0:42:33,Hip Hop,11
+Antony and the Johnsons,I Am a Bird Now,2005,0:35:24,Pop,10
+Amy Winehouse,Back to Black,2006,0:34:53,Soul,11
+Christina Aguilera,Back to Basics,2006,1:18:43,Pop,22
+Lupe Fiasco,Lupe Fiasco's Food & Liquor,2006,1:12:06,Hip Hop,16
+Ghostface Killah,Fishscale,2006,1:04:48,Hip Hop,23
+Ali Farka Toure,Savane,2006,0:58:37,Blues,13
+Muse,Black Holes and Revelations,2006,0:42:25,Rock,11
+Joanna Newsom,Ys,2006,0:55:41,Folk,5
+Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",2006,0:40:58,Rock,13
+Klaxons,Myths of the Near Future,2007,0:53:46,Punk,11
+LCD Soundsystem,Sound of Silver,2007,0:55:55,Dance,9
+Radiohead,In Rainbows,2007,0:42:38,Rock,10
+Arcade Fire,Neon Bible,2007,0:46:56,Rock,11
+M.I.A.,Kala,2007,0:47:34,Hip Hop,12
+"The Good, the Bad & the Queen","The Good, the Bad & the Queen",2007,0:42:49,Rock,12
+Justice,Cross,2007,0:48:07,Electronic,12
+Q-Tip,The Renaissance,2008,0:43:17,Hip Hop,12
+Kings of Leon,Only by the Night,2008,0:43:03,Rock,11
+Fleet Foxes,Fleet Foxes,2008,0:39:22,Folk,11
+The Last Shadow Puppets,The Age of the Understatement,2008,0:34:48,Rock,12
+Elbow,The Seldom Seen Kid,2008,0:57:26,Rock,12
+Portishead,Third,2008,0:49:16,Electronic,11
+MGMT,Oracular Spectacular,2008,0:40:23,Electronic,10
+Goldfrapp,Seventh Tree,2008,0:41:52,Pop,10
+TV on the Radio,Dear Science,2008,0:50:21,Rock,11
+Slipknot,All Hope is Gone,2008,0:57:57,Metal,12
+Wild Beasts,Two Dancers,2009,0:37:32,Rock,10
+Bill Callahan,Sometimes I Wish We Were an Eagle,2009,0:48:14,Country,9
+Animal Collective,Merriweather Post Pavilion,2009,0:54:45,Pop,11
+Grizzly Bear,Veckatimest,2009,0:52:26,Folk,12
+Yeah Yeah Yeahs,It's Blitz!,2009,0:41:45,Punk,10
+Dirty Projectors,Bitte Orca,2009,0:41:06,Pop,9
+The xx,xx,2009,0:38:35,Pop,11
+Fever Ray,Fever Ray,2009,0:47:45,Pop,10
+Beach House,Teen Dream,2010,0:48:40,Pop,10
+The Black Keys,Brothers,2010,0:54:48,Rock,15
+Kanye West,My Beautiful Dark Twisted Fantasy,2010,1:08:36,Hip Hop,13
+John Grant,Queen of Denmark,2010,0:51:15,Folk,12
+Janelle Monae,The ArchAndroid,2010,1:08:44,RnB,18
+The National,High Violet,2010,0:47:40,Rock,11
+Deerhunter,Halcyon Digest,2010,0:45:57,Pop,11
+Arcade Fire,The Suburbs,2010,1:03:55,Rock,16
+Adele,21,2011,0:48:00,Soul,11
+PJ Harvey,Let England Shake,2011,0:40:04,Rock,12
+White Denim,D,2011,0:37:06,Rock,10
+Kendrick Lamar,"good kid, m.A.A.d city",2012,1:08:16,Hip Hop,12
+Hot Chip,In Our Heads,2012,0:56:54,Pop,11
+Frank Ocean,channel ORANGE,2012,0:55:51,RnB,17
+Jack White,Blunderbuss,2012,0:41:52,Rock,13
+Django Django,Django Django,2012,0:48:30,Rock,13
+My Bloody Valentine,m b v,2013,0:46:36,Rock,9
+Kanye West,Yeezus,2013,0:40:06,Hip Hop,10
+David Bowie,The Next Day,2013,0:53:42,Rock,14
+CHVRCHES,The Bones of What You Believe,2013,0:48:04,Pop,12
+Beyonce,BEYONCE,2013,1:06:45,Pop,14
+Taylor Swift,1989,2014,0:48:40,Pop,13
+FKA Twigs,LP1,2014,0:40:46,Pop,10
+The War on Drugs,Lost in the Dream,2014,1:00:40,Rock,10
+Adele,25,2015,0:48:26,Pop,11
+Bjork,Vulnicura,2015,0:58:36,Electronic,9
+Kendrick Lamar,To Pimp a Butterfly,2015,1:18:51,Hip Hop,16
+Songhoy Blues,Music in Exile,2015,0:39:40,Blues,11
+Skepta,Konnichiwa,2016,0:44:07,Hip Hop,12
+Solange,A Seat at the Table,2016,0:51:43,Pop,21
+David Bowie,Blackstar,2016,0:41:13,Rock,7
+Leonard Cohen,You Want It Darker,2016,0:36:07,Folk,9
+The xx,I See You,2017,0:39:15,Electronic,10
+Jane Weaver,Modern Kosmology,2017,0:43:59,Pop,10
+LCD Soundsystem,American Dream,2017,1:08:38,Pop,10
+Lorde,Melodrama,2017,0:40:59,Pop,11
+Thundercat,Drunk,2017,0:51:24,Jazz,23
+Kelela,Take Me Apart,2017,0:53:46,RnB,14
+SZA,Ctrl,2017,0:49:01,RnB,14
+Hookworms,Microshift,2018,0:46:39,Rock,9
+Christine and the Queens,Chris,2018,0:44:28,Pop,11
+Kacey Musgraves,Golden Hour,2018,0:45:44,Country,13
+Little Simz,GREY Area,2019,0:35:25,Hip Hop,10
+Michael Kiwanuka,Kiwanuka,2019,0:51:13,Soul,14
+Nick Cave & The Bad Seeds,Ghosteen,2019,1:08:10,Folk,11
+Fiona Apple,Fetch the Bolt Cutters,2020,0:51:49,Pop,13
+Sault,Untitled (Black Is),2020,0:56:35,Soul,20
+Taylor Swift,Evermore,2020,1:00:38,Folk,15
+Lana Del Rey,Chemtrails Over the Country Club,2021,0:45:28,Folk,11
+Jazmine Sullivan,Heaux Tales,2021,0:32:21,RnB,14
