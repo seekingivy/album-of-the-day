@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Sweetheart of the Rodeo · The Byrds</title>
+      <pubDate>Tue, 21 Jul 2026 14:09:54 +0000</pubDate>
+      <guid>album-prompt-2026-07-21</guid>
+      <description>Sweetheart of the Rodeo — The Byrds (1968)</description>
+    </item>
+    <item>
       <title>Album of the Day — Revolver · The Beatles</title>
       <pubDate>Mon, 20 Jul 2026 14:23:59 +0000</pubDate>
       <guid>album-prompt-2026-07-20</guid>
@@ -177,12 +183,6 @@
       <pubDate>Mon, 22 Jun 2026 17:08:42 +0000</pubDate>
       <guid>album-prompt-2026-06-22</guid>
       <description>Agaetis Byrjun — Sigur Ros (1999)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Moondog · Moondog</title>
-      <pubDate>Sun, 21 Jun 2026 21:11:37 +0000</pubDate>
-      <guid>album-prompt-2026-06-21</guid>
-      <description>Moondog — Moondog (1969)</description>
     </item>
   </channel>
 </rss>
