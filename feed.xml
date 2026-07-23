@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Who's Next · The Who</title>
+      <pubDate>Thu, 23 Jul 2026 14:22:27 +0000</pubDate>
+      <guid>album-prompt-2026-07-23</guid>
+      <description>Who's Next — The Who (1971)</description>
+    </item>
+    <item>
       <title>Album of the Day — Murder Ballads · Nick Cave &amp; The Bad Seeds</title>
       <pubDate>Wed, 22 Jul 2026 14:12:31 +0000</pubDate>
       <guid>album-prompt-2026-07-22</guid>
@@ -177,12 +183,6 @@
       <pubDate>Wed, 24 Jun 2026 14:47:53 +0000</pubDate>
       <guid>album-prompt-2026-06-24</guid>
       <description>Blood on the Tracks — Bob Dylan (1975)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Spirit of Eden · Talk Talk</title>
-      <pubDate>Tue, 23 Jun 2026 15:17:42 +0000</pubDate>
-      <guid>album-prompt-2026-06-23</guid>
-      <description>Spirit of Eden — Talk Talk (1988)</description>
     </item>
   </channel>
 </rss>
