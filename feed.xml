@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Night Life · Ray Price</title>
+      <pubDate>Sun, 26 Jul 2026 13:43:59 +0000</pubDate>
+      <guid>album-prompt-2026-07-26</guid>
+      <description>Night Life — Ray Price (1963)</description>
+    </item>
+    <item>
       <title>Album of the Day — Deserter's Songs · Mercury Rev</title>
       <pubDate>Sat, 25 Jul 2026 13:51:14 +0000</pubDate>
       <guid>album-prompt-2026-07-25</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 27 Jun 2026 13:58:56 +0000</pubDate>
       <guid>album-prompt-2026-06-27</guid>
       <description>The Fat of the Land — Prodigy (1997)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Doolittle · Pixies</title>
-      <pubDate>Fri, 26 Jun 2026 14:39:26 +0000</pubDate>
-      <guid>album-prompt-2026-06-26</guid>
-      <description>Doolittle — Pixies (1989)</description>
     </item>
   </channel>
 </rss>
