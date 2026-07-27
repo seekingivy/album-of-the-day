@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Apple Venus Volume 1 · XTC</title>
+      <pubDate>Mon, 27 Jul 2026 14:52:14 +0000</pubDate>
+      <guid>album-prompt-2026-07-27</guid>
+      <description>Apple Venus Volume 1 — XTC (1999)</description>
+    </item>
+    <item>
       <title>Album of the Day — Night Life · Ray Price</title>
       <pubDate>Sun, 26 Jul 2026 13:43:59 +0000</pubDate>
       <guid>album-prompt-2026-07-26</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sun, 28 Jun 2026 14:05:28 +0000</pubDate>
       <guid>album-prompt-2026-06-28</guid>
       <description>My Generation — The Who (1965)</description>
-    </item>
-    <item>
-      <title>Album of the Day — The Fat of the Land · Prodigy</title>
-      <pubDate>Sat, 27 Jun 2026 13:58:56 +0000</pubDate>
-      <guid>album-prompt-2026-06-27</guid>
-      <description>The Fat of the Land — Prodigy (1997)</description>
     </item>
   </channel>
 </rss>
