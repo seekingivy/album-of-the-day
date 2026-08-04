@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Kiwanuka · Michael Kiwanuka</title>
+      <pubDate>Tue, 04 Aug 2026 14:32:00 +0000</pubDate>
+      <guid>album-prompt-2026-08-04</guid>
+      <description>Kiwanuka — Michael Kiwanuka (2019)</description>
+    </item>
+    <item>
       <title>Album of the Day — Superunknown · Soundgarden</title>
       <pubDate>Mon, 03 Aug 2026 14:56:19 +0000</pubDate>
       <guid>album-prompt-2026-08-03</guid>
@@ -177,12 +183,6 @@
       <pubDate>Mon, 06 Jul 2026 15:50:08 +0000</pubDate>
       <guid>album-prompt-2026-07-06</guid>
       <description>Future Days — Can (1973)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Fulfillingness' First Finale · Stevie Wonder</title>
-      <pubDate>Sun, 05 Jul 2026 13:56:56 +0000</pubDate>
-      <guid>album-prompt-2026-07-05</guid>
-      <description>Fulfillingness' First Finale — Stevie Wonder (1974)</description>
     </item>
   </channel>
 </rss>
