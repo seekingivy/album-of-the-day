@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Safe as Milk · Captain Beefheart and His Magic Band</title>
+      <pubDate>Wed, 05 Aug 2026 14:25:11 +0000</pubDate>
+      <guid>album-prompt-2026-08-05</guid>
+      <description>Safe as Milk — Captain Beefheart and His Magic Band (1967)</description>
+    </item>
+    <item>
       <title>Album of the Day — Kiwanuka · Michael Kiwanuka</title>
       <pubDate>Tue, 04 Aug 2026 14:32:00 +0000</pubDate>
       <guid>album-prompt-2026-08-04</guid>
@@ -177,12 +183,6 @@
       <pubDate>Tue, 07 Jul 2026 14:54:00 +0000</pubDate>
       <guid>album-prompt-2026-07-07</guid>
       <description>The Gilded Palace of Sin — The Flying Burrito Bros (1969)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Future Days · Can</title>
-      <pubDate>Mon, 06 Jul 2026 15:50:08 +0000</pubDate>
-      <guid>album-prompt-2026-07-06</guid>
-      <description>Future Days — Can (1973)</description>
     </item>
   </channel>
 </rss>
