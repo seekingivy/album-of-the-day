@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Born to Run · Bruce Springsteen</title>
+      <pubDate>Fri, 07 Aug 2026 13:19:03 +0000</pubDate>
+      <guid>album-prompt-2026-08-07</guid>
+      <description>Born to Run — Bruce Springsteen (1975)</description>
+    </item>
+    <item>
       <title>Album of the Day — Arc of a Diver · Steve Winwood</title>
       <pubDate>Thu, 06 Aug 2026 14:28:28 +0000</pubDate>
       <guid>album-prompt-2026-08-06</guid>
@@ -177,12 +183,6 @@
       <pubDate>Thu, 09 Jul 2026 15:27:18 +0000</pubDate>
       <guid>album-prompt-2026-07-09</guid>
       <description>Exile on Main St. — The Rolling Stones (1972)</description>
-    </item>
-    <item>
-      <title>Album of the Day — American IV: The Man Comes Around · Johnny Cash</title>
-      <pubDate>Wed, 08 Jul 2026 14:32:01 +0000</pubDate>
-      <guid>album-prompt-2026-07-08</guid>
-      <description>American IV: The Man Comes Around — Johnny Cash (2002)</description>
     </item>
   </channel>
 </rss>
