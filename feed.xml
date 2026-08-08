@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Permission to Land · The Darkness</title>
+      <pubDate>Sat, 08 Aug 2026 13:02:47 +0000</pubDate>
+      <guid>album-prompt-2026-08-08</guid>
+      <description>Permission to Land — The Darkness (2003)</description>
+    </item>
+    <item>
       <title>Album of the Day — Born to Run · Bruce Springsteen</title>
       <pubDate>Fri, 07 Aug 2026 13:19:03 +0000</pubDate>
       <guid>album-prompt-2026-08-07</guid>
@@ -177,12 +183,6 @@
       <pubDate>Fri, 10 Jul 2026 14:44:31 +0000</pubDate>
       <guid>album-prompt-2026-07-10</guid>
       <description>Ys — Joanna Newsom (2006)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Exile on Main St. · The Rolling Stones</title>
-      <pubDate>Thu, 09 Jul 2026 15:27:18 +0000</pubDate>
-      <guid>album-prompt-2026-07-09</guid>
-      <description>Exile on Main St. — The Rolling Stones (1972)</description>
     </item>
   </channel>
 </rss>
