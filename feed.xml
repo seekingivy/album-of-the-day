@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Penance Soiree · The Icarus Line</title>
+      <pubDate>Mon, 10 Aug 2026 13:24:29 +0000</pubDate>
+      <guid>album-prompt-2026-08-10</guid>
+      <description>Penance Soiree — The Icarus Line (2004)</description>
+    </item>
+    <item>
       <title>Album of the Day — For Your Pleasure · Roxy Music</title>
       <pubDate>Sun, 09 Aug 2026 13:05:33 +0000</pubDate>
       <guid>album-prompt-2026-08-09</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sun, 12 Jul 2026 13:43:40 +0000</pubDate>
       <guid>album-prompt-2026-07-12</guid>
       <description>Paranoid — Black Sabbath (1970)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Central Reservation · Beth Orton</title>
-      <pubDate>Sat, 11 Jul 2026 13:42:51 +0000</pubDate>
-      <guid>album-prompt-2026-07-11</guid>
-      <description>Central Reservation — Beth Orton (1999)</description>
     </item>
   </channel>
 </rss>
