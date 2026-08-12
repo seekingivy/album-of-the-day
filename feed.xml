@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — The Colour of Spring · Talk Talk</title>
+      <pubDate>Wed, 12 Aug 2026 13:25:20 +0000</pubDate>
+      <guid>album-prompt-2026-08-12</guid>
+      <description>The Colour of Spring — Talk Talk (1986)</description>
+    </item>
+    <item>
       <title>Album of the Day — Bitte Orca · Dirty Projectors</title>
       <pubDate>Tue, 11 Aug 2026 13:21:18 +0000</pubDate>
       <guid>album-prompt-2026-08-11</guid>
@@ -177,12 +183,6 @@
       <pubDate>Tue, 14 Jul 2026 14:02:02 +0000</pubDate>
       <guid>album-prompt-2026-07-14</guid>
       <description>Low-Life — New Order (1985)</description>
-    </item>
-    <item>
-      <title>Album of the Day — The Poet · Bobby Womack</title>
-      <pubDate>Mon, 13 Jul 2026 14:51:53 +0000</pubDate>
-      <guid>album-prompt-2026-07-13</guid>
-      <description>The Poet — Bobby Womack (1981)</description>
     </item>
   </channel>
 </rss>
