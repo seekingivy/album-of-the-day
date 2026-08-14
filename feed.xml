@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — No Other · Gene Clark</title>
+      <pubDate>Fri, 14 Aug 2026 13:21:30 +0000</pubDate>
+      <guid>album-prompt-2026-08-14</guid>
+      <description>No Other — Gene Clark (1974)</description>
+    </item>
+    <item>
       <title>Album of the Day — Hysteria · Def Leppard</title>
       <pubDate>Thu, 13 Aug 2026 13:26:59 +0000</pubDate>
       <guid>album-prompt-2026-08-13</guid>
@@ -177,12 +183,6 @@
       <pubDate>Thu, 16 Jul 2026 14:10:23 +0000</pubDate>
       <guid>album-prompt-2026-07-16</guid>
       <description>The Dreaming — Kate Bush (1982)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Hot Buttered Soul · Isaac Hayes</title>
-      <pubDate>Wed, 15 Jul 2026 13:58:58 +0000</pubDate>
-      <guid>album-prompt-2026-07-15</guid>
-      <description>Hot Buttered Soul — Isaac Hayes (1969)</description>
     </item>
   </channel>
 </rss>
