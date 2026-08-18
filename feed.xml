@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — D · White Denim</title>
+      <pubDate>Tue, 18 Aug 2026 12:58:55 +0000</pubDate>
+      <guid>album-prompt-2026-08-18</guid>
+      <description>D — White Denim (2011)</description>
+    </item>
+    <item>
       <title>Album of the Day — Gris-Gris · Dr. John, the Night Tripper</title>
       <pubDate>Mon, 17 Aug 2026 12:56:45 +0000</pubDate>
       <guid>album-prompt-2026-08-17</guid>
@@ -177,12 +183,6 @@
       <pubDate>Mon, 20 Jul 2026 14:23:59 +0000</pubDate>
       <guid>album-prompt-2026-07-20</guid>
       <description>Revolver — The Beatles (1966)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Surfer Rosa · Pixies</title>
-      <pubDate>Sun, 19 Jul 2026 13:40:19 +0000</pubDate>
-      <guid>album-prompt-2026-07-19</guid>
-      <description>Surfer Rosa — Pixies (1988)</description>
     </item>
   </channel>
 </rss>
