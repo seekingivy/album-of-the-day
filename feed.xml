@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Suede · Suede</title>
+      <pubDate>Wed, 19 Aug 2026 12:59:47 +0000</pubDate>
+      <guid>album-prompt-2026-08-19</guid>
+      <description>Suede — Suede (1993)</description>
+    </item>
+    <item>
       <title>Album of the Day — D · White Denim</title>
       <pubDate>Tue, 18 Aug 2026 12:58:55 +0000</pubDate>
       <guid>album-prompt-2026-08-18</guid>
@@ -177,12 +183,6 @@
       <pubDate>Tue, 21 Jul 2026 14:09:54 +0000</pubDate>
       <guid>album-prompt-2026-07-21</guid>
       <description>Sweetheart of the Rodeo — The Byrds (1968)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Revolver · The Beatles</title>
-      <pubDate>Mon, 20 Jul 2026 14:23:59 +0000</pubDate>
-      <guid>album-prompt-2026-07-20</guid>
-      <description>Revolver — The Beatles (1966)</description>
     </item>
   </channel>
 </rss>
