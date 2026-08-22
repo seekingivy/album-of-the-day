@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Harvest · Neil Young</title>
+      <pubDate>Sat, 22 Aug 2026 12:52:28 +0000</pubDate>
+      <guid>album-prompt-2026-08-22</guid>
+      <description>Harvest — Neil Young (1972)</description>
+    </item>
+    <item>
       <title>Album of the Day — Franz Ferdinand · Franz Ferdinand</title>
       <pubDate>Fri, 21 Aug 2026 13:00:58 +0000</pubDate>
       <guid>album-prompt-2026-08-21</guid>
@@ -177,12 +183,6 @@
       <pubDate>Fri, 24 Jul 2026 14:00:30 +0000</pubDate>
       <guid>album-prompt-2026-07-24</guid>
       <description>Music From Big Pink — The Band (1968)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Who's Next · The Who</title>
-      <pubDate>Thu, 23 Jul 2026 14:22:27 +0000</pubDate>
-      <guid>album-prompt-2026-07-23</guid>
-      <description>Who's Next — The Who (1971)</description>
     </item>
   </channel>
 </rss>
