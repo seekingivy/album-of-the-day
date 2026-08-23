@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Violent Femmes · Violent Femmes</title>
+      <pubDate>Sun, 23 Aug 2026 12:53:15 +0000</pubDate>
+      <guid>album-prompt-2026-08-23</guid>
+      <description>Violent Femmes — Violent Femmes (1983)</description>
+    </item>
+    <item>
       <title>Album of the Day — Harvest · Neil Young</title>
       <pubDate>Sat, 22 Aug 2026 12:52:28 +0000</pubDate>
       <guid>album-prompt-2026-08-22</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 25 Jul 2026 13:51:14 +0000</pubDate>
       <guid>album-prompt-2026-07-25</guid>
       <description>Deserter's Songs — Mercury Rev (1998)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Music From Big Pink · The Band</title>
-      <pubDate>Fri, 24 Jul 2026 14:00:30 +0000</pubDate>
-      <guid>album-prompt-2026-07-24</guid>
-      <description>Music From Big Pink — The Band (1968)</description>
     </item>
   </channel>
 </rss>
