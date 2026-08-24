@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Drunk · Thundercat</title>
+      <pubDate>Mon, 24 Aug 2026 13:03:09 +0000</pubDate>
+      <guid>album-prompt-2026-08-24</guid>
+      <description>Drunk — Thundercat (2017)</description>
+    </item>
+    <item>
       <title>Album of the Day — Violent Femmes · Violent Femmes</title>
       <pubDate>Sun, 23 Aug 2026 12:53:15 +0000</pubDate>
       <guid>album-prompt-2026-08-23</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sun, 26 Jul 2026 13:43:59 +0000</pubDate>
       <guid>album-prompt-2026-07-26</guid>
       <description>Night Life — Ray Price (1963)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Deserter's Songs · Mercury Rev</title>
-      <pubDate>Sat, 25 Jul 2026 13:51:14 +0000</pubDate>
-      <guid>album-prompt-2026-07-25</guid>
-      <description>Deserter's Songs — Mercury Rev (1998)</description>
     </item>
   </channel>
 </rss>
