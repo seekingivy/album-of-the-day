@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Spy vs. Spy · John Zorn</title>
+      <pubDate>Tue, 25 Aug 2026 12:59:47 +0000</pubDate>
+      <guid>album-prompt-2026-08-25</guid>
+      <description>Spy vs. Spy — John Zorn (1989)</description>
+    </item>
+    <item>
       <title>Album of the Day — Drunk · Thundercat</title>
       <pubDate>Mon, 24 Aug 2026 13:03:09 +0000</pubDate>
       <guid>album-prompt-2026-08-24</guid>
@@ -177,12 +183,6 @@
       <pubDate>Mon, 27 Jul 2026 14:52:14 +0000</pubDate>
       <guid>album-prompt-2026-07-27</guid>
       <description>Apple Venus Volume 1 — XTC (1999)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Night Life · Ray Price</title>
-      <pubDate>Sun, 26 Jul 2026 13:43:59 +0000</pubDate>
-      <guid>album-prompt-2026-07-26</guid>
-      <description>Night Life — Ray Price (1963)</description>
     </item>
   </channel>
 </rss>
