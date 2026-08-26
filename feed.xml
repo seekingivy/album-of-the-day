@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Back in Black · AC/DC</title>
+      <pubDate>Wed, 26 Aug 2026 13:05:24 +0000</pubDate>
+      <guid>album-prompt-2026-08-26</guid>
+      <description>Back in Black — AC/DC (1980)</description>
+    </item>
+    <item>
       <title>Album of the Day — Spy vs. Spy · John Zorn</title>
       <pubDate>Tue, 25 Aug 2026 12:59:47 +0000</pubDate>
       <guid>album-prompt-2026-08-25</guid>
@@ -177,12 +183,6 @@
       <pubDate>Tue, 28 Jul 2026 14:26:52 +0000</pubDate>
       <guid>album-prompt-2026-07-28</guid>
       <description>Run-D.M.C. — Run-D.M.C. (1984)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Apple Venus Volume 1 · XTC</title>
-      <pubDate>Mon, 27 Jul 2026 14:52:14 +0000</pubDate>
-      <guid>album-prompt-2026-07-27</guid>
-      <description>Apple Venus Volume 1 — XTC (1999)</description>
     </item>
   </channel>
 </rss>
