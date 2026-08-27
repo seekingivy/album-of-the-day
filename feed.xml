@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — The Downward Spiral · Nine Inch Nails</title>
+      <pubDate>Thu, 27 Aug 2026 22:09:15 +0000</pubDate>
+      <guid>album-prompt-2026-08-27</guid>
+      <description>The Downward Spiral — Nine Inch Nails (1994)</description>
+    </item>
+    <item>
       <title>Album of the Day — Back in Black · AC/DC</title>
       <pubDate>Wed, 26 Aug 2026 13:05:24 +0000</pubDate>
       <guid>album-prompt-2026-08-26</guid>
@@ -177,12 +183,6 @@
       <pubDate>Wed, 29 Jul 2026 14:24:58 +0000</pubDate>
       <guid>album-prompt-2026-07-29</guid>
       <description>Viva Hate — Morrissey (1988)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Run-D.M.C. · Run-D.M.C.</title>
-      <pubDate>Tue, 28 Jul 2026 14:26:52 +0000</pubDate>
-      <guid>album-prompt-2026-07-28</guid>
-      <description>Run-D.M.C. — Run-D.M.C. (1984)</description>
     </item>
   </channel>
 </rss>
