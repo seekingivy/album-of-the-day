@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Seventh Tree · Goldfrapp</title>
+      <pubDate>Sat, 29 Aug 2026 16:36:58 +0000</pubDate>
+      <guid>album-prompt-2026-08-29</guid>
+      <description>Seventh Tree — Goldfrapp (2008)</description>
+    </item>
+    <item>
       <title>Album of the Day — Born in the U.S.A. · Bruce Springsteen</title>
       <pubDate>Fri, 28 Aug 2026 22:09:10 +0000</pubDate>
       <guid>album-prompt-2026-08-28</guid>
@@ -177,12 +183,6 @@
       <pubDate>Fri, 31 Jul 2026 14:25:04 +0000</pubDate>
       <guid>album-prompt-2026-07-31</guid>
       <description>Peggy Suicide — Julian Cope (1991)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Soul Mining · The The</title>
-      <pubDate>Thu, 30 Jul 2026 14:22:32 +0000</pubDate>
-      <guid>album-prompt-2026-07-30</guid>
-      <description>Soul Mining — The The (1983)</description>
     </item>
   </channel>
 </rss>
