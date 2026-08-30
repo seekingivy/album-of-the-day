@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Untitled (Black Is) · Sault</title>
+      <pubDate>Sun, 30 Aug 2026 16:31:54 +0000</pubDate>
+      <guid>album-prompt-2026-08-30</guid>
+      <description>Untitled (Black Is) — Sault (2020)</description>
+    </item>
+    <item>
       <title>Album of the Day — Seventh Tree · Goldfrapp</title>
       <pubDate>Sat, 29 Aug 2026 16:36:58 +0000</pubDate>
       <guid>album-prompt-2026-08-29</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 01 Aug 2026 13:43:43 +0000</pubDate>
       <guid>album-prompt-2026-08-01</guid>
       <description>The Grand Tour — George Jones (1974)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Peggy Suicide · Julian Cope</title>
-      <pubDate>Fri, 31 Jul 2026 14:25:04 +0000</pubDate>
-      <guid>album-prompt-2026-07-31</guid>
-      <description>Peggy Suicide — Julian Cope (1991)</description>
     </item>
   </channel>
 </rss>
