@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Foo Fighters · Foo Fighters</title>
+      <pubDate>Mon, 31 Aug 2026 19:03:50 +0000</pubDate>
+      <guid>album-prompt-2026-08-31</guid>
+      <description>Foo Fighters — Foo Fighters (1995)</description>
+    </item>
+    <item>
       <title>Album of the Day — Untitled (Black Is) · Sault</title>
       <pubDate>Sun, 30 Aug 2026 16:31:54 +0000</pubDate>
       <guid>album-prompt-2026-08-30</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sun, 02 Aug 2026 13:43:37 +0000</pubDate>
       <guid>album-prompt-2026-08-02</guid>
       <description>Groovin' — The Young Rascals (1967)</description>
-    </item>
-    <item>
-      <title>Album of the Day — The Grand Tour · George Jones</title>
-      <pubDate>Sat, 01 Aug 2026 13:43:43 +0000</pubDate>
-      <guid>album-prompt-2026-08-01</guid>
-      <description>The Grand Tour — George Jones (1974)</description>
     </item>
   </channel>
 </rss>
