@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Haunted Dancehall · The Sabres of Paradise</title>
+      <pubDate>Tue, 01 Sep 2026 16:27:49 +0000</pubDate>
+      <guid>album-prompt-2026-09-01</guid>
+      <description>Haunted Dancehall — The Sabres of Paradise (1994)</description>
+    </item>
+    <item>
       <title>Album of the Day — Foo Fighters · Foo Fighters</title>
       <pubDate>Mon, 31 Aug 2026 19:03:50 +0000</pubDate>
       <guid>album-prompt-2026-08-31</guid>
@@ -177,12 +183,6 @@
       <pubDate>Mon, 03 Aug 2026 14:56:19 +0000</pubDate>
       <guid>album-prompt-2026-08-03</guid>
       <description>Superunknown — Soundgarden (1994)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Groovin' · The Young Rascals</title>
-      <pubDate>Sun, 02 Aug 2026 13:43:37 +0000</pubDate>
-      <guid>album-prompt-2026-08-02</guid>
-      <description>Groovin' — The Young Rascals (1967)</description>
     </item>
   </channel>
 </rss>
