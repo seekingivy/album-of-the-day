@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — The ArchAndroid · Janelle Monae</title>
+      <pubDate>Sat, 05 Sep 2026 14:59:43 +0000</pubDate>
+      <guid>album-prompt-2026-09-05</guid>
+      <description>The ArchAndroid — Janelle Monae (2010)</description>
+    </item>
+    <item>
       <title>Album of the Day — Wish You Were Here · Pink Floyd</title>
       <pubDate>Fri, 04 Sep 2026 16:11:38 +0000</pubDate>
       <guid>album-prompt-2026-09-04</guid>
@@ -177,12 +183,6 @@
       <pubDate>Fri, 07 Aug 2026 13:19:03 +0000</pubDate>
       <guid>album-prompt-2026-08-07</guid>
       <description>Born to Run — Bruce Springsteen (1975)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Arc of a Diver · Steve Winwood</title>
-      <pubDate>Thu, 06 Aug 2026 14:28:28 +0000</pubDate>
-      <guid>album-prompt-2026-08-06</guid>
-      <description>Arc of a Diver — Steve Winwood (1980)</description>
     </item>
   </channel>
 </rss>
