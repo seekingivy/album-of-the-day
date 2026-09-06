@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Gentlemen · The Afghan Whigs</title>
+      <pubDate>Sun, 06 Sep 2026 15:20:20 +0000</pubDate>
+      <guid>album-prompt-2026-09-06</guid>
+      <description>Gentlemen — The Afghan Whigs (1993)</description>
+    </item>
+    <item>
       <title>Album of the Day — The ArchAndroid · Janelle Monae</title>
       <pubDate>Sat, 05 Sep 2026 14:59:43 +0000</pubDate>
       <guid>album-prompt-2026-09-05</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 08 Aug 2026 13:02:47 +0000</pubDate>
       <guid>album-prompt-2026-08-08</guid>
       <description>Permission to Land — The Darkness (2003)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Born to Run · Bruce Springsteen</title>
-      <pubDate>Fri, 07 Aug 2026 13:19:03 +0000</pubDate>
-      <guid>album-prompt-2026-08-07</guid>
-      <description>Born to Run — Bruce Springsteen (1975)</description>
     </item>
   </channel>
 </rss>
