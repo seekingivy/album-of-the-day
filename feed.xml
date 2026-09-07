@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Something / Anything? · Todd Rundgren</title>
+      <pubDate>Mon, 07 Sep 2026 17:39:43 +0000</pubDate>
+      <guid>album-prompt-2026-09-07</guid>
+      <description>Something / Anything? — Todd Rundgren (1972)</description>
+    </item>
+    <item>
       <title>Album of the Day — Gentlemen · The Afghan Whigs</title>
       <pubDate>Sun, 06 Sep 2026 15:20:20 +0000</pubDate>
       <guid>album-prompt-2026-09-06</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sun, 09 Aug 2026 13:05:33 +0000</pubDate>
       <guid>album-prompt-2026-08-09</guid>
       <description>For Your Pleasure — Roxy Music (1973)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Permission to Land · The Darkness</title>
-      <pubDate>Sat, 08 Aug 2026 13:02:47 +0000</pubDate>
-      <guid>album-prompt-2026-08-08</guid>
-      <description>Permission to Land — The Darkness (2003)</description>
     </item>
   </channel>
 </rss>
