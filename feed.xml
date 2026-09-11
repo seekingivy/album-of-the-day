@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Red Dirt Girl · Emmylou Harris</title>
+      <pubDate>Fri, 11 Sep 2026 16:18:58 +0000</pubDate>
+      <guid>album-prompt-2026-09-11</guid>
+      <description>Red Dirt Girl — Emmylou Harris (2000)</description>
+    </item>
+    <item>
       <title>Album of the Day — The Lexicon of Love · ABC</title>
       <pubDate>Thu, 10 Sep 2026 16:15:11 +0000</pubDate>
       <guid>album-prompt-2026-09-10</guid>
@@ -177,12 +183,6 @@
       <pubDate>Thu, 13 Aug 2026 13:26:59 +0000</pubDate>
       <guid>album-prompt-2026-08-13</guid>
       <description>Hysteria — Def Leppard (1987)</description>
-    </item>
-    <item>
-      <title>Album of the Day — The Colour of Spring · Talk Talk</title>
-      <pubDate>Wed, 12 Aug 2026 13:25:20 +0000</pubDate>
-      <guid>album-prompt-2026-08-12</guid>
-      <description>The Colour of Spring — Talk Talk (1986)</description>
     </item>
   </channel>
 </rss>
