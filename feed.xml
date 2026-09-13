@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Deep Purple in Rock · Deep Purple</title>
+      <pubDate>Sun, 13 Sep 2026 16:03:40 +0000</pubDate>
+      <guid>album-prompt-2026-09-13</guid>
+      <description>Deep Purple in Rock — Deep Purple (1970)</description>
+    </item>
+    <item>
       <title>Album of the Day — It Takes a Nation of Millions to Hold Us Back · Public Enemy</title>
       <pubDate>Sat, 12 Sep 2026 15:24:30 +0000</pubDate>
       <guid>album-prompt-2026-09-12</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 15 Aug 2026 12:50:56 +0000</pubDate>
       <guid>album-prompt-2026-08-15</guid>
       <description>Arrival — ABBA (1976)</description>
-    </item>
-    <item>
-      <title>Album of the Day — No Other · Gene Clark</title>
-      <pubDate>Fri, 14 Aug 2026 13:21:30 +0000</pubDate>
-      <guid>album-prompt-2026-08-14</guid>
-      <description>No Other — Gene Clark (1974)</description>
     </item>
   </channel>
 </rss>
