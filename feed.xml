@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Rapture · Anita Baker</title>
+      <pubDate>Tue, 15 Sep 2026 16:46:33 +0000</pubDate>
+      <guid>album-prompt-2026-09-15</guid>
+      <description>Rapture — Anita Baker (1986)</description>
+    </item>
+    <item>
       <title>Album of the Day — My Generation · The Who</title>
       <pubDate>Mon, 14 Sep 2026 17:59:58 +0000</pubDate>
       <guid>album-prompt-2026-09-14</guid>
@@ -177,12 +183,6 @@
       <pubDate>Mon, 17 Aug 2026 12:56:45 +0000</pubDate>
       <guid>album-prompt-2026-08-17</guid>
       <description>Gris-Gris — Dr. John, the Night Tripper (1968)</description>
-    </item>
-    <item>
-      <title>Album of the Day — The Kinks Are the Village Green Preservation Society · The Kinks</title>
-      <pubDate>Sun, 16 Aug 2026 12:52:32 +0000</pubDate>
-      <guid>album-prompt-2026-08-16</guid>
-      <description>The Kinks Are the Village Green Preservation Society — The Kinks (1968)</description>
     </item>
   </channel>
 </rss>
