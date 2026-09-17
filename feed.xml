@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — The Gilded Palace of Sin · The Flying Burrito Bros</title>
+      <pubDate>Thu, 17 Sep 2026 16:46:03 +0000</pubDate>
+      <guid>album-prompt-2026-09-17</guid>
+      <description>The Gilded Palace of Sin — The Flying Burrito Bros (1969)</description>
+    </item>
+    <item>
       <title>Album of the Day — The Clash · The Clash</title>
       <pubDate>Wed, 16 Sep 2026 16:39:30 +0000</pubDate>
       <guid>album-prompt-2026-09-16</guid>
@@ -177,12 +183,6 @@
       <pubDate>Wed, 19 Aug 2026 12:59:47 +0000</pubDate>
       <guid>album-prompt-2026-08-19</guid>
       <description>Suede — Suede (1993)</description>
-    </item>
-    <item>
-      <title>Album of the Day — D · White Denim</title>
-      <pubDate>Tue, 18 Aug 2026 12:58:55 +0000</pubDate>
-      <guid>album-prompt-2026-08-18</guid>
-      <description>D — White Denim (2011)</description>
     </item>
   </channel>
 </rss>
