@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Be · Common</title>
+      <pubDate>Sun, 20 Sep 2026 15:54:19 +0000</pubDate>
+      <guid>album-prompt-2026-09-20</guid>
+      <description>Be — Common (2005)</description>
+    </item>
+    <item>
       <title>Album of the Day — Pretenders · Pretenders</title>
       <pubDate>Sat, 19 Sep 2026 15:46:00 +0000</pubDate>
       <guid>album-prompt-2026-09-19</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 22 Aug 2026 12:52:28 +0000</pubDate>
       <guid>album-prompt-2026-08-22</guid>
       <description>Harvest — Neil Young (1972)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Franz Ferdinand · Franz Ferdinand</title>
-      <pubDate>Fri, 21 Aug 2026 13:00:58 +0000</pubDate>
-      <guid>album-prompt-2026-08-21</guid>
-      <description>Franz Ferdinand — Franz Ferdinand (2004)</description>
     </item>
   </channel>
 </rss>
