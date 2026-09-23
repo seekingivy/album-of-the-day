@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — The Atomic Mr. Basie · Count Basie and His Orchestra + Neal Hefti Arrangements</title>
+      <pubDate>Wed, 23 Sep 2026 16:40:56 +0000</pubDate>
+      <guid>album-prompt-2026-09-23</guid>
+      <description>The Atomic Mr. Basie — Count Basie and His Orchestra + Neal Hefti Arrangements (1958)</description>
+    </item>
+    <item>
       <title>Album of the Day — Fear of a Black Planet · Public Enemy</title>
       <pubDate>Tue, 22 Sep 2026 16:44:45 +0000</pubDate>
       <guid>album-prompt-2026-09-22</guid>
@@ -177,12 +183,6 @@
       <pubDate>Tue, 25 Aug 2026 12:59:47 +0000</pubDate>
       <guid>album-prompt-2026-08-25</guid>
       <description>Spy vs. Spy — John Zorn (1989)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Drunk · Thundercat</title>
-      <pubDate>Mon, 24 Aug 2026 13:03:09 +0000</pubDate>
-      <guid>album-prompt-2026-08-24</guid>
-      <description>Drunk — Thundercat (2017)</description>
     </item>
   </channel>
 </rss>
