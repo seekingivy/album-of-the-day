@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Nick of Time · Bonnie Raitt</title>
+      <pubDate>Thu, 24 Sep 2026 16:59:06 +0000</pubDate>
+      <guid>album-prompt-2026-09-24</guid>
+      <description>Nick of Time — Bonnie Raitt (1989)</description>
+    </item>
+    <item>
       <title>Album of the Day — The Atomic Mr. Basie · Count Basie and His Orchestra + Neal Hefti Arrangements</title>
       <pubDate>Wed, 23 Sep 2026 16:40:56 +0000</pubDate>
       <guid>album-prompt-2026-09-23</guid>
@@ -177,12 +183,6 @@
       <pubDate>Wed, 26 Aug 2026 13:05:24 +0000</pubDate>
       <guid>album-prompt-2026-08-26</guid>
       <description>Back in Black — AC/DC (1980)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Spy vs. Spy · John Zorn</title>
-      <pubDate>Tue, 25 Aug 2026 12:59:47 +0000</pubDate>
-      <guid>album-prompt-2026-08-25</guid>
-      <description>Spy vs. Spy — John Zorn (1989)</description>
     </item>
   </channel>
 </rss>
