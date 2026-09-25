@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Kenya · Machito</title>
+      <pubDate>Fri, 25 Sep 2026 17:00:42 +0000</pubDate>
+      <guid>album-prompt-2026-09-25</guid>
+      <description>Kenya — Machito (1958)</description>
+    </item>
+    <item>
       <title>Album of the Day — Nick of Time · Bonnie Raitt</title>
       <pubDate>Thu, 24 Sep 2026 16:59:06 +0000</pubDate>
       <guid>album-prompt-2026-09-24</guid>
@@ -177,12 +183,6 @@
       <pubDate>Thu, 27 Aug 2026 22:09:15 +0000</pubDate>
       <guid>album-prompt-2026-08-27</guid>
       <description>The Downward Spiral — Nine Inch Nails (1994)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Back in Black · AC/DC</title>
-      <pubDate>Wed, 26 Aug 2026 13:05:24 +0000</pubDate>
-      <guid>album-prompt-2026-08-26</guid>
-      <description>Back in Black — AC/DC (1980)</description>
     </item>
   </channel>
 </rss>
