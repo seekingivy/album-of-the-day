@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Buenas noches From a Lonely Room · Dwight Yoakam</title>
+      <pubDate>Sat, 26 Sep 2026 16:13:38 +0000</pubDate>
+      <guid>album-prompt-2026-09-26</guid>
+      <description>Buenas noches From a Lonely Room — Dwight Yoakam (1988)</description>
+    </item>
+    <item>
       <title>Album of the Day — Kenya · Machito</title>
       <pubDate>Fri, 25 Sep 2026 17:00:42 +0000</pubDate>
       <guid>album-prompt-2026-09-25</guid>
@@ -177,12 +183,6 @@
       <pubDate>Fri, 28 Aug 2026 22:09:10 +0000</pubDate>
       <guid>album-prompt-2026-08-28</guid>
       <description>Born in the U.S.A. — Bruce Springsteen (1984)</description>
-    </item>
-    <item>
-      <title>Album of the Day — The Downward Spiral · Nine Inch Nails</title>
-      <pubDate>Thu, 27 Aug 2026 22:09:15 +0000</pubDate>
-      <guid>album-prompt-2026-08-27</guid>
-      <description>The Downward Spiral — Nine Inch Nails (1994)</description>
     </item>
   </channel>
 </rss>
