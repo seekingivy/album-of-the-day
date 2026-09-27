@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — 1989 · Taylor Swift</title>
+      <pubDate>Sun, 27 Sep 2026 16:49:20 +0000</pubDate>
+      <guid>album-prompt-2026-09-27</guid>
+      <description>1989 — Taylor Swift (2014)</description>
+    </item>
+    <item>
       <title>Album of the Day — Buenas noches From a Lonely Room · Dwight Yoakam</title>
       <pubDate>Sat, 26 Sep 2026 16:13:38 +0000</pubDate>
       <guid>album-prompt-2026-09-26</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 29 Aug 2026 16:36:58 +0000</pubDate>
       <guid>album-prompt-2026-08-29</guid>
       <description>Seventh Tree — Goldfrapp (2008)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Born in the U.S.A. · Bruce Springsteen</title>
-      <pubDate>Fri, 28 Aug 2026 22:09:10 +0000</pubDate>
-      <guid>album-prompt-2026-08-28</guid>
-      <description>Born in the U.S.A. — Bruce Springsteen (1984)</description>
     </item>
   </channel>
 </rss>
