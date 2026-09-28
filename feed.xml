@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Live! · Fela Ransome-Kuti and The Africa '70 With Ginger Baker</title>
+      <pubDate>Mon, 28 Sep 2026 19:32:53 +0000</pubDate>
+      <guid>album-prompt-2026-09-28</guid>
+      <description>Live! — Fela Ransome-Kuti and The Africa '70 With Ginger Baker (1971)</description>
+    </item>
+    <item>
       <title>Album of the Day — 1989 · Taylor Swift</title>
       <pubDate>Sun, 27 Sep 2026 16:49:20 +0000</pubDate>
       <guid>album-prompt-2026-09-27</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sun, 30 Aug 2026 16:31:54 +0000</pubDate>
       <guid>album-prompt-2026-08-30</guid>
       <description>Untitled (Black Is) — Sault (2020)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Seventh Tree · Goldfrapp</title>
-      <pubDate>Sat, 29 Aug 2026 16:36:58 +0000</pubDate>
-      <guid>album-prompt-2026-08-29</guid>
-      <description>Seventh Tree — Goldfrapp (2008)</description>
     </item>
   </channel>
 </rss>
