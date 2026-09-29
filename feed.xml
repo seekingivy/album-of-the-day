@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Feast of Wire · Calexico</title>
+      <pubDate>Tue, 29 Sep 2026 17:59:22 +0000</pubDate>
+      <guid>album-prompt-2026-09-29</guid>
+      <description>Feast of Wire — Calexico (2003)</description>
+    </item>
+    <item>
       <title>Album of the Day — Live! · Fela Ransome-Kuti and The Africa '70 With Ginger Baker</title>
       <pubDate>Mon, 28 Sep 2026 19:32:53 +0000</pubDate>
       <guid>album-prompt-2026-09-28</guid>
@@ -177,12 +183,6 @@
       <pubDate>Mon, 31 Aug 2026 19:03:50 +0000</pubDate>
       <guid>album-prompt-2026-08-31</guid>
       <description>Foo Fighters — Foo Fighters (1995)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Untitled (Black Is) · Sault</title>
-      <pubDate>Sun, 30 Aug 2026 16:31:54 +0000</pubDate>
-      <guid>album-prompt-2026-08-30</guid>
-      <description>Untitled (Black Is) — Sault (2020)</description>
     </item>
   </channel>
 </rss>
