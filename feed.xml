@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — What's That Noise? · Coldcut</title>
+      <pubDate>Tue, 06 Oct 2026 18:14:32 +0000</pubDate>
+      <guid>album-prompt-2026-10-06</guid>
+      <description>What's That Noise? — Coldcut (1989)</description>
+    </item>
+    <item>
       <title>Album of the Day — When I Was Born for the 7th Time · Cornershop</title>
       <pubDate>Sun, 04 Oct 2026 16:46:10 +0000</pubDate>
       <guid>album-prompt-2026-10-04</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sun, 06 Sep 2026 15:20:20 +0000</pubDate>
       <guid>album-prompt-2026-09-06</guid>
       <description>Gentlemen — The Afghan Whigs (1993)</description>
-    </item>
-    <item>
-      <title>Album of the Day — The ArchAndroid · Janelle Monae</title>
-      <pubDate>Sat, 05 Sep 2026 14:59:43 +0000</pubDate>
-      <guid>album-prompt-2026-09-05</guid>
-      <description>The ArchAndroid — Janelle Monae (2010)</description>
     </item>
   </channel>
 </rss>
