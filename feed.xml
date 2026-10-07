@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Toys in the Attic · Aerosmith</title>
+      <pubDate>Wed, 07 Oct 2026 18:47:19 +0000</pubDate>
+      <guid>album-prompt-2026-10-07</guid>
+      <description>Toys in the Attic — Aerosmith (1975)</description>
+    </item>
+    <item>
       <title>Album of the Day — What's That Noise? · Coldcut</title>
       <pubDate>Tue, 06 Oct 2026 18:14:32 +0000</pubDate>
       <guid>album-prompt-2026-10-06</guid>
@@ -177,12 +183,6 @@
       <pubDate>Mon, 07 Sep 2026 17:39:43 +0000</pubDate>
       <guid>album-prompt-2026-09-07</guid>
       <description>Something / Anything? — Todd Rundgren (1972)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Gentlemen · The Afghan Whigs</title>
-      <pubDate>Sun, 06 Sep 2026 15:20:20 +0000</pubDate>
-      <guid>album-prompt-2026-09-06</guid>
-      <description>Gentlemen — The Afghan Whigs (1993)</description>
     </item>
   </channel>
 </rss>
