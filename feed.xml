@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Cross · Justice</title>
+      <pubDate>Thu, 08 Oct 2026 18:45:14 +0000</pubDate>
+      <guid>album-prompt-2026-10-08</guid>
+      <description>Cross — Justice (2007)</description>
+    </item>
+    <item>
       <title>Album of the Day — Toys in the Attic · Aerosmith</title>
       <pubDate>Wed, 07 Oct 2026 18:47:19 +0000</pubDate>
       <guid>album-prompt-2026-10-07</guid>
@@ -177,12 +183,6 @@
       <pubDate>Tue, 08 Sep 2026 16:28:48 +0000</pubDate>
       <guid>album-prompt-2026-09-08</guid>
       <description>Come Find Yourself — Fun Lovin' Criminals (1996)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Something / Anything? · Todd Rundgren</title>
-      <pubDate>Mon, 07 Sep 2026 17:39:43 +0000</pubDate>
-      <guid>album-prompt-2026-09-07</guid>
-      <description>Something / Anything? — Todd Rundgren (1972)</description>
     </item>
   </channel>
 </rss>
