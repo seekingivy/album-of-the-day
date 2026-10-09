@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Tea for the Tillerman · Cat Stevens</title>
+      <pubDate>Fri, 09 Oct 2026 18:15:46 +0000</pubDate>
+      <guid>album-prompt-2026-10-09</guid>
+      <description>Tea for the Tillerman — Cat Stevens (1970)</description>
+    </item>
+    <item>
       <title>Album of the Day — Cross · Justice</title>
       <pubDate>Thu, 08 Oct 2026 18:45:14 +0000</pubDate>
       <guid>album-prompt-2026-10-08</guid>
@@ -177,12 +183,6 @@
       <pubDate>Wed, 09 Sep 2026 16:25:39 +0000</pubDate>
       <guid>album-prompt-2026-09-09</guid>
       <description>Buena Vista Social Club — Buena Vista Social Club (1997)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Come Find Yourself · Fun Lovin' Criminals</title>
-      <pubDate>Tue, 08 Sep 2026 16:28:48 +0000</pubDate>
-      <guid>album-prompt-2026-09-08</guid>
-      <description>Come Find Yourself — Fun Lovin' Criminals (1996)</description>
     </item>
   </channel>
 </rss>
