@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Chore of Enchantment · Giant Sand</title>
+      <pubDate>Sat, 10 Oct 2026 17:14:55 +0000</pubDate>
+      <guid>album-prompt-2026-10-10</guid>
+      <description>Chore of Enchantment — Giant Sand (2000)</description>
+    </item>
+    <item>
       <title>Album of the Day — Tea for the Tillerman · Cat Stevens</title>
       <pubDate>Fri, 09 Oct 2026 18:15:46 +0000</pubDate>
       <guid>album-prompt-2026-10-09</guid>
@@ -177,12 +183,6 @@
       <pubDate>Thu, 10 Sep 2026 16:15:11 +0000</pubDate>
       <guid>album-prompt-2026-09-10</guid>
       <description>The Lexicon of Love — ABC (1982)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Buena Vista Social Club · Buena Vista Social Club</title>
-      <pubDate>Wed, 09 Sep 2026 16:25:39 +0000</pubDate>
-      <guid>album-prompt-2026-09-09</guid>
-      <description>Buena Vista Social Club — Buena Vista Social Club (1997)</description>
     </item>
   </channel>
 </rss>
