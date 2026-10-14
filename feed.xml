@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Live at the Witch Trials · The Fall</title>
+      <pubDate>Wed, 14 Oct 2026 16:59:13 +0000</pubDate>
+      <guid>album-prompt-2026-10-14</guid>
+      <description>Live at the Witch Trials — The Fall (1979)</description>
+    </item>
+    <item>
       <title>Album of the Day — Hot Shots II · The Beta Band</title>
       <pubDate>Tue, 13 Oct 2026 19:09:51 +0000</pubDate>
       <guid>album-prompt-2026-10-13</guid>
@@ -177,12 +183,6 @@
       <pubDate>Mon, 14 Sep 2026 17:59:58 +0000</pubDate>
       <guid>album-prompt-2026-09-14</guid>
       <description>My Generation — The Who (1965)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Deep Purple in Rock · Deep Purple</title>
-      <pubDate>Sun, 13 Sep 2026 16:03:40 +0000</pubDate>
-      <guid>album-prompt-2026-09-13</guid>
-      <description>Deep Purple in Rock — Deep Purple (1970)</description>
     </item>
   </channel>
 </rss>
