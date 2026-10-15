@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — In the Wee Small Hours · Frank Sinatra</title>
+      <pubDate>Thu, 15 Oct 2026 16:46:18 +0000</pubDate>
+      <guid>album-prompt-2026-10-15</guid>
+      <description>In the Wee Small Hours — Frank Sinatra (1955)</description>
+    </item>
+    <item>
       <title>Album of the Day — Live at the Witch Trials · The Fall</title>
       <pubDate>Wed, 14 Oct 2026 16:59:13 +0000</pubDate>
       <guid>album-prompt-2026-10-14</guid>
@@ -177,12 +183,6 @@
       <pubDate>Tue, 15 Sep 2026 16:46:33 +0000</pubDate>
       <guid>album-prompt-2026-09-15</guid>
       <description>Rapture — Anita Baker (1986)</description>
-    </item>
-    <item>
-      <title>Album of the Day — My Generation · The Who</title>
-      <pubDate>Mon, 14 Sep 2026 17:59:58 +0000</pubDate>
-      <guid>album-prompt-2026-09-14</guid>
-      <description>My Generation — The Who (1965)</description>
     </item>
   </channel>
 </rss>
