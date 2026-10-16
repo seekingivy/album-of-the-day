@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Soul Mining · The The</title>
+      <pubDate>Fri, 16 Oct 2026 16:28:56 +0000</pubDate>
+      <guid>album-prompt-2026-10-16</guid>
+      <description>Soul Mining — The The (1983)</description>
+    </item>
+    <item>
       <title>Album of the Day — In the Wee Small Hours · Frank Sinatra</title>
       <pubDate>Thu, 15 Oct 2026 16:46:18 +0000</pubDate>
       <guid>album-prompt-2026-10-15</guid>
@@ -177,12 +183,6 @@
       <pubDate>Wed, 16 Sep 2026 16:39:30 +0000</pubDate>
       <guid>album-prompt-2026-09-16</guid>
       <description>The Clash — The Clash (1977)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Rapture · Anita Baker</title>
-      <pubDate>Tue, 15 Sep 2026 16:46:33 +0000</pubDate>
-      <guid>album-prompt-2026-09-15</guid>
-      <description>Rapture — Anita Baker (1986)</description>
     </item>
   </channel>
 </rss>
