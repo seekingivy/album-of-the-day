@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Celebrity Skin · Hole</title>
+      <pubDate>Sat, 17 Oct 2026 15:23:05 +0000</pubDate>
+      <guid>album-prompt-2026-10-17</guid>
+      <description>Celebrity Skin — Hole (1998)</description>
+    </item>
+    <item>
       <title>Album of the Day — Soul Mining · The The</title>
       <pubDate>Fri, 16 Oct 2026 16:28:56 +0000</pubDate>
       <guid>album-prompt-2026-10-16</guid>
@@ -177,12 +183,6 @@
       <pubDate>Thu, 17 Sep 2026 16:46:03 +0000</pubDate>
       <guid>album-prompt-2026-09-17</guid>
       <description>The Gilded Palace of Sin — The Flying Burrito Bros (1969)</description>
-    </item>
-    <item>
-      <title>Album of the Day — The Clash · The Clash</title>
-      <pubDate>Wed, 16 Sep 2026 16:39:30 +0000</pubDate>
-      <guid>album-prompt-2026-09-16</guid>
-      <description>The Clash — The Clash (1977)</description>
     </item>
   </channel>
 </rss>
