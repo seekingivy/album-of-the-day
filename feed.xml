@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Diamond Life · Sade</title>
+      <pubDate>Sun, 18 Oct 2026 15:44:00 +0000</pubDate>
+      <guid>album-prompt-2026-10-18</guid>
+      <description>Diamond Life — Sade (1984)</description>
+    </item>
+    <item>
       <title>Album of the Day — Celebrity Skin · Hole</title>
       <pubDate>Sat, 17 Oct 2026 15:23:05 +0000</pubDate>
       <guid>album-prompt-2026-10-17</guid>
@@ -177,12 +183,6 @@
       <pubDate>Fri, 18 Sep 2026 16:14:56 +0000</pubDate>
       <guid>album-prompt-2026-09-18</guid>
       <description>Jagged Little Pill — Alanis Morissette (1995)</description>
-    </item>
-    <item>
-      <title>Album of the Day — The Gilded Palace of Sin · The Flying Burrito Bros</title>
-      <pubDate>Thu, 17 Sep 2026 16:46:03 +0000</pubDate>
-      <guid>album-prompt-2026-09-17</guid>
-      <description>The Gilded Palace of Sin — The Flying Burrito Bros (1969)</description>
     </item>
   </channel>
 </rss>
