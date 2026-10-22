@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Good Old Boys · Randy Newman</title>
+      <pubDate>Thu, 22 Oct 2026 17:00:18 +0000</pubDate>
+      <guid>album-prompt-2026-10-22</guid>
+      <description>Good Old Boys — Randy Newman (1974)</description>
+    </item>
+    <item>
       <title>Album of the Day — Close to the Edge · Yes</title>
       <pubDate>Wed, 21 Oct 2026 17:01:24 +0000</pubDate>
       <guid>album-prompt-2026-10-21</guid>
@@ -177,12 +183,6 @@
       <pubDate>Tue, 22 Sep 2026 16:44:45 +0000</pubDate>
       <guid>album-prompt-2026-09-22</guid>
       <description>Fear of a Black Planet — Public Enemy (1990)</description>
-    </item>
-    <item>
-      <title>Album of the Day — New Forms · Roni Size &amp; Reprazent</title>
-      <pubDate>Mon, 21 Sep 2026 18:08:25 +0000</pubDate>
-      <guid>album-prompt-2026-09-21</guid>
-      <description>New Forms — Roni Size &amp; Reprazent (1997)</description>
     </item>
   </channel>
 </rss>
