@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — The Miseducation of Lauryn Hill · Lauryn Hill</title>
+      <pubDate>Mon, 26 Oct 2026 18:35:48 +0000</pubDate>
+      <guid>album-prompt-2026-10-26</guid>
+      <description>The Miseducation of Lauryn Hill — Lauryn Hill (1998)</description>
+    </item>
+    <item>
       <title>Album of the Day — Close to You · Carpenters</title>
       <pubDate>Sun, 25 Oct 2026 15:56:49 +0000</pubDate>
       <guid>album-prompt-2026-10-25</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 26 Sep 2026 16:13:38 +0000</pubDate>
       <guid>album-prompt-2026-09-26</guid>
       <description>Buenas noches From a Lonely Room — Dwight Yoakam (1988)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Kenya · Machito</title>
-      <pubDate>Fri, 25 Sep 2026 17:00:42 +0000</pubDate>
-      <guid>album-prompt-2026-09-25</guid>
-      <description>Kenya — Machito (1958)</description>
     </item>
   </channel>
 </rss>
