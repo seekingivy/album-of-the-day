@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Talking Heads: 77 · Talking Heads</title>
+      <pubDate>Sat, 31 Oct 2026 17:08:47 +0000</pubDate>
+      <guid>album-prompt-2026-10-31</guid>
+      <description>Talking Heads: 77 — Talking Heads (1977)</description>
+    </item>
+    <item>
       <title>Album of the Day — Risque · Chic</title>
       <pubDate>Fri, 30 Oct 2026 17:55:39 +0000</pubDate>
       <guid>album-prompt-2026-10-30</guid>
@@ -177,12 +183,6 @@
       <pubDate>Thu, 01 Oct 2026 18:21:17 +0000</pubDate>
       <guid>album-prompt-2026-10-01</guid>
       <description>Strangeways, Here We Come — The Smiths (1987)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Chicago Transit Authority · Chicago Transit Authority</title>
-      <pubDate>Wed, 30 Sep 2026 17:55:44 +0000</pubDate>
-      <guid>album-prompt-2026-09-30</guid>
-      <description>Chicago Transit Authority — Chicago Transit Authority (1969)</description>
     </item>
   </channel>
 </rss>
