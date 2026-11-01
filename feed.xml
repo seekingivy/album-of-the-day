@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Highly Evolved · The Vines</title>
+      <pubDate>Sun, 01 Nov 2026 17:51:03 +0000</pubDate>
+      <guid>album-prompt-2026-11-01</guid>
+      <description>Highly Evolved — The Vines (2002)</description>
+    </item>
+    <item>
       <title>Album of the Day — Talking Heads: 77 · Talking Heads</title>
       <pubDate>Sat, 31 Oct 2026 17:08:47 +0000</pubDate>
       <guid>album-prompt-2026-10-31</guid>
@@ -177,12 +183,6 @@
       <pubDate>Fri, 02 Oct 2026 17:46:00 +0000</pubDate>
       <guid>album-prompt-2026-10-02</guid>
       <description>Doolittle — Pixies (1989)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Strangeways, Here We Come · The Smiths</title>
-      <pubDate>Thu, 01 Oct 2026 18:21:17 +0000</pubDate>
-      <guid>album-prompt-2026-10-01</guid>
-      <description>Strangeways, Here We Come — The Smiths (1987)</description>
     </item>
   </channel>
 </rss>
