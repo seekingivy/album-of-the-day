@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — The Rise &amp; Fall · Madness</title>
+      <pubDate>Sun, 08 Nov 2026 17:51:04 +0000</pubDate>
+      <guid>album-prompt-2026-11-08</guid>
+      <description>The Rise &amp; Fall — Madness (1982)</description>
+    </item>
+    <item>
       <title>Album of the Day — Highway to Hell · AC/DC</title>
       <pubDate>Sat, 07 Nov 2026 17:41:23 +0000</pubDate>
       <guid>album-prompt-2026-11-07</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 10 Oct 2026 17:14:55 +0000</pubDate>
       <guid>album-prompt-2026-10-10</guid>
       <description>Chore of Enchantment — Giant Sand (2000)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Tea for the Tillerman · Cat Stevens</title>
-      <pubDate>Fri, 09 Oct 2026 18:15:46 +0000</pubDate>
-      <guid>album-prompt-2026-10-09</guid>
-      <description>Tea for the Tillerman — Cat Stevens (1970)</description>
     </item>
   </channel>
 </rss>
