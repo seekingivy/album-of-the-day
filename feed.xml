@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — 21 · Adele</title>
+      <pubDate>Tue, 10 Nov 2026 19:35:15 +0000</pubDate>
+      <guid>album-prompt-2026-11-10</guid>
+      <description>21 — Adele (2011)</description>
+    </item>
+    <item>
       <title>Album of the Day — Moondog · Moondog</title>
       <pubDate>Mon, 09 Nov 2026 22:13:18 +0000</pubDate>
       <guid>album-prompt-2026-11-09</guid>
@@ -177,12 +183,6 @@
       <pubDate>Mon, 12 Oct 2026 21:11:02 +0000</pubDate>
       <guid>album-prompt-2026-10-12</guid>
       <description>The Infotainment Scan — The Fall (1993)</description>
-    </item>
-    <item>
-      <title>Album of the Day — 25 · Adele</title>
-      <pubDate>Sun, 11 Oct 2026 17:37:15 +0000</pubDate>
-      <guid>album-prompt-2026-10-11</guid>
-      <description>25 — Adele (2015)</description>
     </item>
   </channel>
 </rss>
