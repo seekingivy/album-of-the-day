@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Crosby, Stills &amp; Nash · Crosby, Stills &amp; Nash</title>
+      <pubDate>Thu, 12 Nov 2026 19:46:46 +0000</pubDate>
+      <guid>album-prompt-2026-11-12</guid>
+      <description>Crosby, Stills &amp; Nash — Crosby, Stills &amp; Nash (1969)</description>
+    </item>
+    <item>
       <title>Album of the Day — Cupid &amp; Psyche 85 · Scritti Politti</title>
       <pubDate>Wed, 11 Nov 2026 19:28:29 +0000</pubDate>
       <guid>album-prompt-2026-11-11</guid>
@@ -177,12 +183,6 @@
       <pubDate>Wed, 14 Oct 2026 16:59:13 +0000</pubDate>
       <guid>album-prompt-2026-10-14</guid>
       <description>Live at the Witch Trials — The Fall (1979)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Hot Shots II · The Beta Band</title>
-      <pubDate>Tue, 13 Oct 2026 19:09:51 +0000</pubDate>
-      <guid>album-prompt-2026-10-13</guid>
-      <description>Hot Shots II — The Beta Band (2001)</description>
     </item>
   </channel>
 </rss>
