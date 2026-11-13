@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Lost in the Dream · The War on Drugs</title>
+      <pubDate>Fri, 13 Nov 2026 19:29:44 +0000</pubDate>
+      <guid>album-prompt-2026-11-13</guid>
+      <description>Lost in the Dream — The War on Drugs (2014)</description>
+    </item>
+    <item>
       <title>Album of the Day — Crosby, Stills &amp; Nash · Crosby, Stills &amp; Nash</title>
       <pubDate>Thu, 12 Nov 2026 19:46:46 +0000</pubDate>
       <guid>album-prompt-2026-11-12</guid>
@@ -177,12 +183,6 @@
       <pubDate>Thu, 15 Oct 2026 16:46:18 +0000</pubDate>
       <guid>album-prompt-2026-10-15</guid>
       <description>In the Wee Small Hours — Frank Sinatra (1955)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Live at the Witch Trials · The Fall</title>
-      <pubDate>Wed, 14 Oct 2026 16:59:13 +0000</pubDate>
-      <guid>album-prompt-2026-10-14</guid>
-      <description>Live at the Witch Trials — The Fall (1979)</description>
     </item>
   </channel>
 </rss>
