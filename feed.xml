@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Nowhere · Ride</title>
+      <pubDate>Sun, 15 Nov 2026 18:43:00 +0000</pubDate>
+      <guid>album-prompt-2026-11-15</guid>
+      <description>Nowhere — Ride (1990)</description>
+    </item>
+    <item>
       <title>Album of the Day — War · U2</title>
       <pubDate>Sat, 14 Nov 2026 17:52:47 +0000</pubDate>
       <guid>album-prompt-2026-11-14</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 17 Oct 2026 15:23:05 +0000</pubDate>
       <guid>album-prompt-2026-10-17</guid>
       <description>Celebrity Skin — Hole (1998)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Soul Mining · The The</title>
-      <pubDate>Fri, 16 Oct 2026 16:28:56 +0000</pubDate>
-      <guid>album-prompt-2026-10-16</guid>
-      <description>Soul Mining — The The (1983)</description>
     </item>
   </channel>
 </rss>
