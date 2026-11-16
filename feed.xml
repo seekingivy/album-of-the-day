@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — Violent Femmes · Violent Femmes</title>
+      <pubDate>Mon, 16 Nov 2026 21:53:25 +0000</pubDate>
+      <guid>album-prompt-2026-11-16</guid>
+      <description>Violent Femmes — Violent Femmes (1983)</description>
+    </item>
+    <item>
       <title>Album of the Day — Nowhere · Ride</title>
       <pubDate>Sun, 15 Nov 2026 18:43:00 +0000</pubDate>
       <guid>album-prompt-2026-11-15</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sun, 18 Oct 2026 15:44:00 +0000</pubDate>
       <guid>album-prompt-2026-10-18</guid>
       <description>Diamond Life — Sade (1984)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Celebrity Skin · Hole</title>
-      <pubDate>Sat, 17 Oct 2026 15:23:05 +0000</pubDate>
-      <guid>album-prompt-2026-10-17</guid>
-      <description>Celebrity Skin — Hole (1998)</description>
     </item>
   </channel>
 </rss>
