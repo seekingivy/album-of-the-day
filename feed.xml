@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — You've Come a Long Way, Baby · Fatboy Slim</title>
+      <pubDate>Sun, 22 Nov 2026 19:24:11 +0000</pubDate>
+      <guid>album-prompt-2026-11-22</guid>
+      <description>You've Come a Long Way, Baby — Fatboy Slim (1998)</description>
+    </item>
+    <item>
       <title>Album of the Day — Bookends · Simon &amp; Garfunkel</title>
       <pubDate>Sat, 21 Nov 2026 19:00:18 +0000</pubDate>
       <guid>album-prompt-2026-11-21</guid>
@@ -177,12 +183,6 @@
       <pubDate>Sat, 24 Oct 2026 15:45:50 +0000</pubDate>
       <guid>album-prompt-2026-10-24</guid>
       <description>Fetch the Bolt Cutters — Fiona Apple (2020)</description>
-    </item>
-    <item>
-      <title>Album of the Day — All That You Can't Leave Behind · U2</title>
-      <pubDate>Fri, 23 Oct 2026 16:52:48 +0000</pubDate>
-      <guid>album-prompt-2026-10-23</guid>
-      <description>All That You Can't Leave Behind — U2 (2000)</description>
     </item>
   </channel>
 </rss>
