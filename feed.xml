@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — 1977 · Ash</title>
+      <pubDate>Thu, 26 Nov 2026 21:18:48 +0000</pubDate>
+      <guid>album-prompt-2026-11-26</guid>
+      <description>1977 — Ash (1996)</description>
+    </item>
+    <item>
       <title>Album of the Day — Maverick a Strike · Finley Quaye</title>
       <pubDate>Wed, 25 Nov 2026 21:30:53 +0000</pubDate>
       <guid>album-prompt-2026-11-25</guid>
@@ -177,12 +183,6 @@
       <pubDate>Wed, 28 Oct 2026 18:15:46 +0000</pubDate>
       <guid>album-prompt-2026-10-28</guid>
       <description>Very — Pet Shop Boys (1993)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Olympia 64 · Jacques Brel</title>
-      <pubDate>Tue, 27 Oct 2026 17:51:09 +0000</pubDate>
-      <guid>album-prompt-2026-10-27</guid>
-      <description>Olympia 64 — Jacques Brel (1964)</description>
     </item>
   </channel>
 </rss>
