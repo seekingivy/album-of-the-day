@@ -5,6 +5,12 @@
     <link>https://YOUR-USERNAME.github.io/daily-album-prompt/</link>
     <description>A daily prompt for intentional listening.</description>
     <item>
+      <title>Album of the Day — The Blueprint · Jay-Z</title>
+      <pubDate>Fri, 27 Nov 2026 20:59:49 +0000</pubDate>
+      <guid>album-prompt-2026-11-27</guid>
+      <description>The Blueprint — Jay-Z (2001)</description>
+    </item>
+    <item>
       <title>Album of the Day — 1977 · Ash</title>
       <pubDate>Thu, 26 Nov 2026 21:18:48 +0000</pubDate>
       <guid>album-prompt-2026-11-26</guid>
@@ -177,12 +183,6 @@
       <pubDate>Thu, 29 Oct 2026 18:21:10 +0000</pubDate>
       <guid>album-prompt-2026-10-29</guid>
       <description>Tapestry — Carole King (1971)</description>
-    </item>
-    <item>
-      <title>Album of the Day — Very · Pet Shop Boys</title>
-      <pubDate>Wed, 28 Oct 2026 18:15:46 +0000</pubDate>
-      <guid>album-prompt-2026-10-28</guid>
-      <description>Very — Pet Shop Boys (1993)</description>
     </item>
   </channel>
 </rss>
